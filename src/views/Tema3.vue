@@ -1,11 +1,30 @@
 <template lang="pug">
 .curso-main-container.pb-3
   BannerInterno
-  .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
+  .container.tarjeta.tarjeta--blanca.p-4.p-md-5    
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 3
-      h1 Titulo de primer nivel
+      h1 Plan Nacional de Desarrollo
+    
+    .row.fondo-tarjeta--tema3.mb-5
+      .row(style='margin-top:80px')
+        .col-lg-4
+          figure.mb-4(data-aos='zoom-out')
+            img(src='@/assets/curso/tema3/img1.png', alt='iamgen de ambiente', style="width:377px").mx-auto
+        .col-lg-8
+          .row
+            .col-lg-9
+              .cajon.color-secundario.p-4.mb-4(style='')
+                p Un aporte sustantivo para garantizar la equidad y sostenibilidad financiera del sistema de salud es el artículo 138 del Proyecto de Ley del Plan Nacional de Desarrollo 2018- 2022 “Solidaridad del Sistema de Salud”.
+          p La Ley del PND amplía la afiliación al régimen subsidiado, al incluir a la población no pobre y no vulnerable, que no cuenta con capacidad de pago para asumir una contribución plena. En primer lugar, el artículo ratifica el subsidio pleno de aseguramiento en salud para la población que, según el SISBEN, sea clasificada como pobre y vulnerable. En segundo lugar, y en aras de avanzar hacia la universalidad del aseguramiento en condiciones de equidad y sostenibilidad, el artículo da lugar al subsidio parcial a la población no pobre y no vulnerable, de acuerdo con su capacidad de pago, conforme a la clasificación del SISBEN. El subsidio parcial es una alternativa para que las personas que no son pobres y vulnerables pero que tampoco alcanzan a cotizar totalmente al sistema de salud, mantengan su afiliación. Adicionalmente, este artículo permite afiliar a nuevas personas excluidas del sistema. Aquellas personas que no están afiliadas porque, por un lado, no cumplen con las condiciones para estar en el régimen contributivo y, por otro lado, reciben algunos ingresos que les impide estar en el régimen subsidiado (PND, s.f.).
+
+    p.mb-5 Bajo el liderazgo del Ministerio de Salud y Protección Social y el apoyo técnico del DNP en materia del uso y aplicación del SISBEN, el Gobierno está trabajando en el diseño operativo de esta contribución, la cual contribuirá a la universalización del aseguramiento en salud en condiciones de equidad, eficiencia y solidaridad.
+
+
+
+
+
 
 </template>
 
@@ -26,4 +45,4 @@ export default {
 }
 </script>
 
-<style lang="sass"></style>
+<style lang="sass" scoped></style>
