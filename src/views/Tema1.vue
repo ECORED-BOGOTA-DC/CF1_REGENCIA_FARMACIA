@@ -343,31 +343,32 @@
       .col-lg-10(style="background-color: #c4b5f23a; border-radius:20px;")
         .row
           .col-lg-6.ps-5.pt-5
-            ul.lista-ul
+            ul.lista-ul.fa-ul2
               li.mb-4
                 i.fas.fa-atom
-                p.mb-0 Los adultos mayores.
+                | Los adultos mayores.
               li.mb-4
                 i.fas.fa-atom
-                p.mb-0 Los menores de edad.
+                |Los menores de edad.
               li.mb-4
                 i.fas.fa-atom
-                p.mb-0 Mujeres embarazadas.
+                | Mujeres embarazadas.
               li.mb-4
                 i.fas.fa-atom
-                p.mb-0 Personas en situación de desplazamiento.
+                | Personas en situación de desplazamiento.
               li.mb-4
                 i.fas.fa-atom
-                p.mb-0 Madres cabeza de familia.
+                | Madres cabeza de familia.
               li.mb-4
                 i.fas.fa-atom
-                p.mb-0 Personas que sufren de enfermedades huérfanas.
+                | Personas que sufren de enfermedades huérfanas.
               li.mb-4
                 i.fas.fa-atom
-                p.mb-0 Víctimas del conflicto armado en condición de discapacidad.
+                | Víctimas del conflicto armado en condición de discapacidad.
               li.mb-4
                 i.fas.fa-atom
-                | Personas con disminuciones físicas o psíquicas. 
+                | Personas con disminuciones físicas o psíquicas.
+
           .col.align-self-center
             figure.mb-4
               img(src='@/assets/curso/tema1/tema1-3/img2.png' alt='imagen ambiental', style='width:500px;').mx-auto
@@ -391,10 +392,10 @@
         ul.lista-ul
           li.mb-4
             i.fas.fa-angle-right
-            p.mb-0 #[strong Parágrafo 1º. ] Las víctimas de cualquier tipo de violencia sexual tienen derecho a acceder, de manera prioritaria, a los tratamientos sicológicos y siquiátricos que requieran.
+            | #[strong Parágrafo 1º. ] Las víctimas de cualquier tipo de violencia sexual tienen derecho a acceder, de manera prioritaria, a los tratamientos sicológicos y siquiátricos que requieran.
           li 
             i.fas.fa-angle-right
-            p.mb-0 #[strong Parágrafo 2°. ] En el caso de las personas víctimas de la violencia y del conflicto armado, el Estado desarrollará el programa de atención psicosocial y salud integral, a las víctimas de que trata el artículo 137 de la Ley 1448 de 2011.
+            | #[strong Parágrafo 2°. ] En el caso de las personas víctimas de la violencia y del conflicto armado, el Estado desarrollará el programa de atención psicosocial y salud integral, a las víctimas de que trata el artículo 137 de la Ley 1448 de 2011.
 
 
     separador

@@ -262,25 +262,25 @@
       .col-lg-6(data-aos='fade-up')
         .row.p-4(style="background-color: #F5F8FA")
           .col-lg-12.p-4(style='border: 2px solid #825ef5')
-            ul.lista-ul
+            ul.lista-ul.fa-ul2
               li.mb-4
                 i.fas.fa-chevron-right
-                p.mb-0 Desarrollar, en primera instancia, productos o servicios acordes con sus necesidades.
+                | Desarrollar, en primera instancia, productos o servicios acordes con sus necesidades.
               li.mb-4
                 i.fas.fa-chevron-right
-                p.mb-0 Establecer una comunicación directa con ellos.
+                | Establecer una comunicación directa con ellos.
               li.mb-4
                 i.fas.fa-chevron-right
-                p.mb-0 Desarrollar encuestas para recolectar opiniones acerca de los usos de esos productos y que sirvan para conocer el grado de satisfacción que tienen.
+                | Desarrollar encuestas para recolectar opiniones acerca de los usos de esos productos y que sirvan para conocer el grado de satisfacción que tienen.
               li.mb-4
                 i.fas.fa-chevron-right
-                p.mb-0 Utilizar esa información para mejorar los productos y servicios.
+                | Utilizar esa información para mejorar los productos y servicios.
               li.mb-4
                 i.fas.fa-chevron-right
-                p.mb-0 Ofrecer acciones para que los propios clientes puedan testear productos antes de sacarlos al mercado, y tener en cuenta esas opiniones para mejorar los productos desarrollados.
+                | Ofrecer acciones para que los propios clientes puedan testear productos antes de sacarlos al mercado, y tener en cuenta esas opiniones para mejorar los productos desarrollados.
               li.mb-4
                 i.fas.fa-chevron-right
-                p.mb-0 Mejorar la experiencia de usuario continuamente, a la hora de facilitar sus compras online, del contacto con atención al cliente, de los envíos, de la respuesta inmediata a problemas que puedan surgir.
+                | Mejorar la experiencia de usuario continuamente, a la hora de facilitar sus compras online, del contacto con atención al cliente, de los envíos, de la respuesta inmediata a problemas que puedan surgir.
       .col-lg-6.align-self-end
         figure.mt-4
           img(src='@/assets/curso/tema4/img14.svg', alt='imagen de ambiente', style='width: 530px').mx-auto
@@ -295,25 +295,25 @@
       .col-lg-6
         .row.p-4(style="background-color: #F5F8FA")
           .col-lg-12.p-4(style='border: 2px solid #825ef5')
-            ul.lista-ul(data-aos='fade-up')
+            ul.lista-ul.fa-ul2(data-aos='fade-up')
               li.mb-4
                 i.fas.fa-chevron-right
-                p.mb-0 El valor percibido por los productos no lo determina nunca la empresa, sino los propios consumidores.
+                | El valor percibido por los productos no lo determina nunca la empresa, sino los propios consumidores.
               li.mb-4
                 i.fas.fa-chevron-right
-                p.mb-0 Mantener siempre un trato cordial por parte de los empleados hacia los clientes.
+                | Mantener siempre un trato cordial por parte de los empleados hacia los clientes.
               li.mb-4
                 i.fas.fa-chevron-right
-                p.mb-0 La palabra discusión no debe nunca ponerse en práctica con los consumidores de un negocio; al contrario, deben plantear opciones cuando hay un problema de manifiesto.
+                | La palabra discusión no debe nunca ponerse en práctica con los consumidores de un negocio; al contrario, deben plantear opciones cuando hay un problema de manifiesto.
               li.mb-4
                 i.fas.fa-chevron-right
-                p.mb-0 No prometer cosas que no se puedan cumplir y que, a posteriori, resultan un fiasco para el público.
+                | No prometer cosas que no se puedan cumplir y que, a posteriori, resultan un fiasco para el público.
               li.mb-4
                 i.fas.fa-chevron-right
-                p.mb-0 Evitar las esperas lo máximo posible. Si se trata de una tienda online, facilitar los pasos del carrito para una compra accesible. Si es un comercio físico, intentar eliminar las aglomeraciones y colas que cansan a los usuarios.
+                | Evitar las esperas lo máximo posible. Si se trata de una tienda online, facilitar los pasos del carrito para una compra accesible. Si es un comercio físico, intentar eliminar las aglomeraciones y colas que cansan a los usuarios.
               li.mb-4
                 i.fas.fa-chevron-right
-                p.mb-0 Conceder el beneficio de la duda a los clientes. Puede ser que en ocasiones se equivoquen, pero antes de juzgarlos, siempre es mejor poner de manifiesto esta actitud para no crear controversias.
+                | Conceder el beneficio de la duda a los clientes. Puede ser que en ocasiones se equivoquen, pero antes de juzgarlos, siempre es mejor poner de manifiesto esta actitud para no crear controversias.
 
     
 

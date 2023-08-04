@@ -35,8 +35,8 @@
 
                 .col-sm-auto
                   a.boton.color-acento-botones(href="https://www.dnp.gov.co/DNPN/Plan-Nacional-de-Desarrollo/Paginas/Pilares-del-PND/Equidad/Salud-para-todos-con-calidad-y-eficiencia.aspx" target="_blank")
-                    span <b style= "color:#12263F;">Ver</b>
-                    i.fas.fa-link.texto-negro 
+                    span Ver
+                    i.fas.fa-link
 
 
 
