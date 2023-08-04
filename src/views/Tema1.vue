@@ -23,7 +23,7 @@
           img(src="@/assets/curso/tema1/imgP.jpg", alt="imafen que acompaña la ley 100", style='width:592px;').mx-auto
 
     p.mb-4 Además, tiene por #[strong objeto] garantizar los derechos irrenunciables de la persona y la comunidad, para obtener la calidad de vida acorde con la dignidad humana, mediante la protección de las contingencias que las afecten.
-    p.mb-5 Esta ley, en su Artículo 2, presenta los #[strong principios] bajo los cuales se rige la Seguridad Social Integral, los cuales son presentados en la siguiente imagen.
+    p.mb-5 Esta ley, en su Artículo 2, presenta los #[strong principios] bajo los cuales se rige la Seguridad Social Integral, estos se presentan en la siguiente imagen.
 
     .titulo-sexto.color-acento-contenido.mb-5
       h5 Figura 1
@@ -229,7 +229,7 @@
           .bloque-texto-custom__img(
             :style="{'background-image': `url(${require('@/assets/curso/tema1/tema1-1/img13.svg')})`}")
           .bloque-texto-custom__texto
-            p.mb-0.mt-5 #[strong Recuerda:] el Sistema de Seguridad Social Integral ha sido instituido para unificar la normatividad y la planeación de la seguridad social, así como también para coordinar a las entidades prestatarias de las mismas, para obtener las finalidades propuestas en la presente ley.
+            p.mb-0.mt-5 #[strong Recuerde que:] el Sistema de Seguridad Social Integral ha sido instituido para unificar la normatividad y la planeación de la seguridad social, así como también para coordinar a las entidades prestatarias de las mismas, para obtener las finalidades propuestas en la presente ley.
 
 
 
@@ -282,18 +282,18 @@
       
       .tarjeta.color-secundario--borde.p-4(titulo="SFC/FNA")
         h4.mb-5 La Superintendencia Financiera de Colombia y el Fondo Nacional del Ahorro 
-        .row
-          .col-xl-6.mb-4
+        .row.justify-content-center
+          .col-xl-4.mb-4
             figure
-              img(src='@/assets/curso/tema1/tema1-2/img5.svg', alt='Fondo Nacional del Ahorro ')
+              img(src='@/assets/curso/tema1/tema1-2/img5.svg', alt='Fondo Nacional del Ahorro')
+
+            figure
+              img(src='@/assets/curso/tema1/tema1-2/img5-2.svg', alt='Superintendencia Financiera de Colombia') 
 
           .col-xl-6
             p Suministran un archivo con la cantidad de afiliados a los fondos privados de cesantías, y al Fondo Nacional del Ahorro. 
 
-          .col-xl-1
-          .col-xl-4.mb-4
-            figure
-              img(src='@/assets/curso/tema1/tema1-2/img5-2.svg', alt='Superintendencia Financiera de Colombia') 
+
 
       
       .tarjeta.color-secundario--borde.p-4(titulo="Subsidio Familiar")

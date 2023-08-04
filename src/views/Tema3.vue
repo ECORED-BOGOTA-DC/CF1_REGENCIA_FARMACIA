@@ -21,7 +21,22 @@
 
     p.mb-5 Bajo el liderazgo del Ministerio de Salud y Protección Social y el apoyo técnico del DNP en materia del uso y aplicación del SISBEN, el Gobierno está trabajando en el diseño operativo de esta contribución, la cual contribuirá a la universalización del aseguramiento en salud en condiciones de equidad, eficiencia y solidaridad.
 
+    .row.justify-content-center.align-items-center.mb-5(data-aos="flip-down")
+      .col-lg-10
+        .tarjeta.bgDescarga.p-4.mb-5
+          .row.justify-content-around.align-items-center
+            .col-3.col-sm-2.col-lg-1
+              img(src="@/assets/curso/tema3/img3.svg",alt="Imágen decorativa")
+            .col
+              .row.justify-content-between.align-items-center
+                .col.mb-3.mb-sm-0
+                  h3.texto-blanco Departamento Nacional de Planeación
+                  p.texto-blanco Visite el enlace para conocer lo que dice el Departamento Nacional de Planeación, sobre cómo estamos, objetivos, qué vamos a hacer (estrategias) y metas.
 
+                .col-sm-auto
+                  a.boton.color-acento-botones(href="https://www.dnp.gov.co/DNPN/Plan-Nacional-de-Desarrollo/Paginas/Pilares-del-PND/Equidad/Salud-para-todos-con-calidad-y-eficiencia.aspx" target="_blank")
+                    span <b style= "color:#12263F;">Ver</b>
+                    i.fas.fa-link.texto-negro 
 
 
 

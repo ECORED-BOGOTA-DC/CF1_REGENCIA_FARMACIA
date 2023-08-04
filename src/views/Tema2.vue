@@ -59,7 +59,7 @@
             p.mb-4 
               b El objetivo de la PAIS está dirigido hacia la generación de las mejores condiciones de la salud de la población, mediante la regulación de la intervención de los integrantes sectoriales e intersectoriales, responsables de garantizar la atención de la promoción, prevención, diagnóstico, tratamiento, rehabilitación y paliación, en condiciones de accesibilidad, aceptabilidad, oportunidad, continuidad, integralidad y capacidad de resolución.
 
-    p.mb-5 La siguiente imagen nos presenta cuáles son los beneficios de la PAIS.
+    p.mb-5 La siguiente imagen presenta cuáles son los beneficios de la PAIS.
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10
