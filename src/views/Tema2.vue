@@ -13,33 +13,33 @@
         p.mb-4 Es así como la búsqueda del acceso universal de la salud en el marco de garantizar el ejercicio del derecho a la salud, se debe caracterizar por crear condiciones para (Werner, Palma, Echavarría y Rosales, s.f. p.5): 
       .col-lg-4
         figure
-          img(src="@/assets/curso/tema2/img1.svg", alt="imagen de ambiente", style="width:406;").mx-auto
+          img(src="@/assets/curso/tema2/img1.svg", alt="Imágen decorativa", style="width:406;").mx-auto
 
     .row.justify-content-center.mb-4
       .col-lg-10(data-aos='fade-up')
         .tarjeta-avatar-b.mb-4
-          img(src='@/assets/curso/tema2/img2.svg', alt='AvatarTop', style="width:200px")
+          img(src='@/assets/curso/tema2/img2.svg', alt='Imágen decorativa', style="width:200px")
           .tarjeta.color-secundario(style="background-color: #7e5ee312")
             .p-4.py-5
               p.mb-0 Mejorar e incrementar la #[strong disponibilidad] de servicios públicos de salud, así como de programas específicos dirigidos a atender a la comunidad, la familia y las personas, de acuerdo con el perfil de salud y prioridades vigentes; con este fin, el Ministerio de Salud deberá contar con una cantidad suficiente de establecimientos. 
       
       .col-lg-10(data-aos='fade-up')
         .tarjeta-avatar-b.mb-4
-          img(src='@/assets/curso/tema2/img3.svg', alt='AvatarTop', style="width:200px")
+          img(src='@/assets/curso/tema2/img3.svg', alt='Imágen decorativa', style="width:200px")
           .tarjeta.color-secundario(style="background-color: #7e5ee312")
             .p-4.py-5
               p.mb-0 Crear condiciones de #[strong accesibilidad] de servicios de salud a todos y todas sin discriminación alguna, con accesibilidad geográfica, económica y cultural, cumpliendo con el mandato constitucional y del código de salud de gratuidad de los servicios, y proporcionando a la población la información necesaria para el cuidado de su salud y la elegibilidad de los servicios que requiera.
 
       .col-lg-10(data-aos='fade-up')
         .tarjeta-avatar-b.mb-4
-          img(src='@/assets/curso/tema2/img4.svg', alt='AvatarTop', style="width:200px")
+          img(src='@/assets/curso/tema2/img4.svg', alt='Imágen decorativa', style="width:200px")
           .tarjeta.color-secundario(style="background-color: #7e5ee312")
             .p-4.py-5
               p.mb-0  #[strong Aceptabilidad] de servicios de salud, los cuales deberán ser respetuosos de la ética médica y culturalmente apropiados, a la par que sensibles a los requisitos del género y el ciclo de vida.
       
       .col-lg-10(data-aos='fade-up')
         .tarjeta-avatar-b.mb-4
-          img(src='@/assets/curso/tema2/img5.svg', alt='AvatarTop', style="width:200px")
+          img(src='@/assets/curso/tema2/img5.svg', alt='Imágen decorativa', style="width:200px")
           .tarjeta.color-secundario(style="background-color: #7e5ee312")
             .p-4.py-5
               p.mb-0 #[strong Calidad.] Los establecimientos y servicios de salud deberán ser apropiados desde el punto de vista científico y médico y ser de buena calidad, garantizando un trato digno, procedimientos adecuados y resolución de los problemas de salud.
@@ -54,7 +54,7 @@
         .row
           .col-lg-5.mb-4
             figure
-              img(src='@/assets/curso/tema2/img6.svg', alt='imagen de ambiente', style="width:382px").mx-auto
+              img(src='@/assets/curso/tema2/img6.svg', alt='Imágen decorativa', style="width:382px").mx-auto
           .col-lg-6.align-self-center
             p.mb-4 
               b El objetivo de la PAIS está dirigido hacia la generación de las mejores condiciones de la salud de la población, mediante la regulación de la intervención de los integrantes sectoriales e intersectoriales, responsables de garantizar la atención de la promoción, prevención, diagnóstico, tratamiento, rehabilitación y paliación, en condiciones de accesibilidad, aceptabilidad, oportunidad, continuidad, integralidad y capacidad de resolución.
@@ -70,7 +70,7 @@
     .row.justify-content-center.fondo-tarjeta--temaV2.mb-5
       .col-lg-10
         figure(style='margin-bottom: 100px')
-          img(src='@/assets/curso/tema2/img7.svg', alt='Beneficios de la Política de Atención Integral en Salud ', style="").mx-auto
+          img(src='@/assets/curso/tema2/img7.svg', alt='Beneficios de la Política de Atención Integral en Salud <br>1.Formula un modelo de atención que toma como centro, a las personas (a nivel individual, familiar y comunitario). <br>2.Garantiza el acceso efectivo de los ciudadanos a los servicios de salud, con acciones y prestaciones desde la promoción de la salud, prevención de la enfermedad, tratamiento, rehabilitación y reinserción social, en todas las etapas de la vida y lo más cerca posible, adonde transcurre su cotidianidad. <br>3.Articula a todos los agentes, desde los ciudadanos, los gobiernos territoriales, las EPS, los prestadores de servicios, los proveedores, y el sector educativo. <br>4.Coordina todos los sectores orientados al bienestar de la población, para modificar, de manera efectiva, los determinantes de la salud, mejorar continuamente los resultados en salud y cerrar brechas de inequidad social.', style="").mx-auto
         figure
           img(src='@/assets/curso/tema2/img8.svg', alt='Beneficios de la Política de Atención Integral en Salud Otros Benedicios', style="").mx-auto
 
@@ -95,7 +95,7 @@
           .row.m-0.align-items-center.justify-content-between
             .col-lg-3.mb-4.mb-lg-0
               figure.py-3
-                img(src='@/assets/curso/tema1/tema1-3/img3.svg' alt='imagen ambiental', style='width: 144px;').mx-auto
+                img(src='@/assets/curso/tema1/tema1-3/img3.svg' alt='Imágen decorativa', style='width: 144px;').mx-auto
             .col-lg-9
               .bloque-texto-a__texto.p-4
                 p La Política Integral de Atención en Salud (PAIS), comprende un componente operativo, que consiste en el Modelo de Atención Integral en Salud (MIAS), el cual se constituye en el marco para la organización y coordinación de actores e instituciones, para garantizar que los ciudadanos accedan a servicios seguros, accesibles y humanizados.
@@ -120,7 +120,7 @@
           span Objetivos MAITE
 
         figure.mb-4(style='')
-          img(src='@/assets/curso/tema2/img9.svg', alt='Objetivos MAITE', style="").mx-auto
+          img(src='@/assets/curso/tema2/img9.svg', alt='Muestra objetivos MAITE: <br>OBJETIVOS <br>Garantizar el derecho fundamental a la salud. <br>Fortalecer la autoridad sanitaria. <br>Articular los agentes del sistema de salud y los actores territoriales en torno a las acciones requeridas para el logro de los resultados de salud. <br>Ajustar las respuestas del sistema de salud, a las necesidades de los territorios y a sus poblaciones. <br>Mejorar las condiciones de salud de la población, la satisfacción de los usuarios frente al sistema de salud, y la sostenibilidad financiera del mismo.', style="").mx-auto
 
     p.mb-4 Para ampliar la información, descargue el PDF de la Resolución 2626 de 2019, por la cual se modifica la Política de Atención Integral en Salud (PAIS) y se adopta el Modelo de Acción Integral Territorial (MAITE).
 

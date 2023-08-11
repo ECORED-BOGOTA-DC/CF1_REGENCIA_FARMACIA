@@ -23,7 +23,7 @@
     ImagenInfografica.color-secundario.mb-5
       template(v-slot:imagen)
         figure
-          img(src='@/assets/curso/tema4/img2.svg', alt="Mercado, proveedor y cliente").mx-auto
+          img(src='@/assets/curso/tema4/img2.svg', alt="Imagen que muestra actores Mercado, proveedor y cliente <br>-Mercado: Es el punto en donde se encuentran el consumidor, y el proveedor. <br>-Proveedor: tiene la meta de conservarse rentable y obtener ganancias que le permita continuar con el proceso de venta del producto o prestación de los servicios. <br>-Consumidor: busca comprar bienes, productos o servicios con el fin de satisfacer necesidades conforme a sus posibilidades adquisitivas.").mx-auto
 
       .tarjeta.tarjeta--blanca.p-3(x="22%" y="24%")
         .h5.mb-2 Proveedor
@@ -67,7 +67,7 @@
     .row.justify-content-center(style='margin-bottom:30px')
       .col-lg-5
         figure.mb-4
-              img(src='@/assets/curso/tema4/img3.svg', alt='imagen de ambiente', style="width:588px").mx-auto
+              img(src='@/assets/curso/tema4/img3.svg', alt='Imágen decorativa', style="width:588px").mx-auto
       .col.align-self-center
         .cajon.color-acento-contenido.p-4.mb-4
           p.mb-0 El nacimiento del enfoque social de la mercadotecnia se relaciona con todo el tema de salud. Los primeros proyectos fueron contra el mercadeo de cigarrillo y alcohol y luego se trataron temas de nutrición y planificación familiar.
@@ -78,7 +78,7 @@
       .col-lg-11
         .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5.mb-5
           .bloque-texto-g__img(
-            :style="{'background-image': `url(${require('@/assets/curso/tema4/img4.jpg')})`}")
+            :style="{'background-image': `url(${require('@/assets/curso/tema4/img4.jpg')})`}")(alt="Imágen decorativa")
           .bloque-texto-g__texto.p-4
             i.fas.fa-quote-right.mb-5.mt-4(style="color: #00BCD4 !important ;font-size:35px !important")
             p.mb-4 “Se puede afirmar que la mercadotecnia constituye una nueva perspectiva para la gerencia de la salud, ya que al apropiarse de ella como una herramienta que permite llevar al mercado medicamentos, instrumental médico, y tecnología, ofrecer y reorientar servicios, diseñar y poner en marcha programas de salud, concilia los objetivos y propósitos de la institución sanitaria con los del usuario, consumidor y paciente, para así lograr sus fines”.
@@ -94,7 +94,7 @@
         .row.justify-content-center(titulo="El ambiente")
           .col-auto.align-self-end
             figure.mb-4
-              img(src='@/assets/curso/tema4/img5.svg', alt='imagen de ambiente', style='width:433px').mx-auto
+              img(src='@/assets/curso/tema4/img5.svg', alt='Imágen decorativa', style='width:433px').mx-auto
           
           .col-md-7.mb-4.mb-md-0.align-self-center.mt-5
             p El mercadeo maneja dos ambientes, el interno y el externo; la mercadotecnia está orientada al externo y, por lo tanto, el ambiente que la rodea determina sus éxitos o sus fracasos. El ambiente de la mercadotecnia es la suma de las fuerzas y entidades que lo cercan y que pueden afectar la planificación de la mercadotecnia de un producto determinado. Este ambiente está conformado por estratos: el organizacional, que compromete a cada uno de los departamentos, oficinas, divisiones y canales de la organización; el del mercado, que es el que compromete a todos los compradores actuales y en potencia, del producto; el del macroambiente, que se refiere a situaciones externas a la empresa, como la economía, la tecnología, la legislación y la cultura, las cuales afectan las transacciones de la firma del mercado; y el Estrato del medio exterior, que  son los fenómenos del medio exterior que pueden afectar, de alguna manera, a la empresa. 
@@ -102,7 +102,7 @@
         .row.justify-content-center(titulo="La competitividad")
           .col-md-4
             figure
-              img(src='@/assets/curso/tema4/img6.svg', alt='imagen de ambiente', style='width:420px').mx-auto
+              img(src='@/assets/curso/tema4/img6.svg', alt='Imágen decorativa', style='width:420px').mx-auto
           
           .col-md-7.mb-4.mb-md-0.align-self-center
             p Es una dinámica estratégica que utilizan las empresas con el propósito de mantenerse activos en el mercado, crecer y desarrollarse en los diferentes mercados.
@@ -110,7 +110,7 @@
         .row.justify-content-center(titulo="Estrategia")
           .col-md-4
             figure
-              img(src='@/assets/curso/tema4/img7.svg', alt='imagen de ambiente', style='width:258px').mx-auto
+              img(src='@/assets/curso/tema4/img7.svg', alt='Imágen decorativa', style='width:258px').mx-auto
           
           .col-md-7.mb-4.mb-md-0.align-self-center
             p Muestra el camino por el cual la empresa busca lograr los objetivos planteados; puede ser de corto, mediano y  largo plazo.
@@ -118,7 +118,7 @@
         .row.justify-content-center(titulo="Misión")
           .col-md-4
             figure
-              img(src='@/assets/curso/tema4/img8.svg', alt='imagen de ambiente', style='width:250px;').mx-auto
+              img(src='@/assets/curso/tema4/img8.svg', alt='Imágen decorativa', style='width:250px;').mx-auto
           
           .col-md-7.mb-4.mb-md-0.align-self-center
             p Es por medio de esta que se plantean los objetivos y metas puntuales con los que se guiará a la organización.
@@ -126,7 +126,7 @@
         .row.justify-content-center(titulo="Visión")
           .col-md-4
             figure
-              img(src='@/assets/curso/tema4/img9.svg', alt='imagen de ambiente', style='width:285px;').mx-auto
+              img(src='@/assets/curso/tema4/img9.svg', alt='Imágen decorativa', style='width:285px;').mx-auto
           
           .col-md-7.mb-4.mb-md-0.align-self-center
             p Esta muestra hacia dónde se encamina la organización y, en un tiempo determinado, en qué se debe convertir, teniendo presente todos los diferentes escenarios que en el camino, y a futuro, pueden aparecer.
@@ -134,7 +134,7 @@
         .row.justify-content-center(titulo="Objetivos")
           .col-md-4
             figure
-              img(src='@/assets/curso/tema4/img10.svg', alt='imagen de ambiente', style='width:245px;').mx-auto
+              img(src='@/assets/curso/tema4/img10.svg', alt='Imágen decorativa', style='width:245px;').mx-auto
           
           .col-md-7.mb-4.mb-md-0.align-self-center
             p La definición de estos son el eje central del <i>marketing</i>, ya que marcan las metas a alcanzar y cómo alcanzarlas; por lo tanto, deben ser factibles y realistas.
@@ -142,7 +142,7 @@
         .row.justify-content-center(titulo="Metas")
           .col-md-4
             figure.mb-4
-              img(src='@/assets/curso/tema4/img11.svg', alt='imagen de ambiente', style='width:314px;').mx-auto
+              img(src='@/assets/curso/tema4/img11.svg', alt='Imágen decorativa', style='width:314px;').mx-auto
           
           .col-md-7.mb-4.mb-md-0.align-self-center
             p Se refiere a cuantificar los objetivos planteados que se pretenden alcanzar en un tiempo determinado. Estas cumplen tres funciones principales dentro de la empresa: establecer el estado futuro anhelado que la empresa quiere alcanzar, proporcionar una razón principal para la existencia de la empresa, y proporcionar un conjunto de estándares con los que se puede contrastar el rendimiento organizativo.
@@ -151,7 +151,7 @@
         .row.justify-content-center(titulo="Calidad")
           .col-md-4
             figure
-              img(src='@/assets/curso/tema4/img12.svg', alt='imagen de ambiente', style='width:257px;').mx-auto
+              img(src='@/assets/curso/tema4/img12.svg', alt='Imágen decorativa', style='width:257px;').mx-auto
           
           .col-md-7.mb-4.mb-md-0.align-self-center
             p “La Calidad de la Atención de Salud se entenderá como la provisión de servicios accesibles y equitativos, con un nivel profesional óptimo, que tiene en cuenta los recursos disponibles y logra la adhesión y satisfacción del usuario” (Peñaloza, Prieto y Rodríguez, 2012, p.30).
@@ -159,7 +159,7 @@
         .row.justify-content-center(titulo="Servicio")
           .col-md-4
             figure
-              img(src='@/assets/curso/tema4/img13.svg', alt='imagen de ambiente', style='width:258px;').mx-auto
+              img(src='@/assets/curso/tema4/img13.svg', alt='Imágen decorativa', style='width:258px;').mx-auto
           
           .col-md-7.mb-4.mb-md-0.align-self-center
             p En esta estrategia se deben tener presentes dos componentes: el primero tiene que ver con la actividad como tal, y el segundo con la forma como se realiza dicha actividad. Ambos componentes están correlacionados de forma recíproca y configuran el valor global identificado con la actividad ofertada.
@@ -179,7 +179,7 @@
         .cardContainer.py-5.mb-5
           .cardImage
             figure
-              img(src='@/assets/curso/tema4/Tipos-cliente.jpg', alt='imagen de ambiente', style='width:860px;').mx-auto
+              img(src='@/assets/curso/tema4/Tipos-cliente.jpg', alt='Imágen decorativa', style='width:860px;').mx-auto
 
           .custom-crd.br-left(data-aos='flip-left', data-aos-easing='ease-out-cubic', data-aos-duration='1000')
               h4.mb-4 Tipos de cliente
@@ -198,19 +198,19 @@
     .row.justify-content-center(style='margin-bottom:70px')
       .col-lg-3.vertical-cards--custom
         figure.mb-4(data-aos='zoom-in')
-          img(src='@/assets/curso/tema4/icon1.svg', alt='imagen de ambiente', style='width:190px;').mx-auto
+          img(src='@/assets/curso/tema4/icon1.svg', alt='Imágen decorativa', style='width:190px;').mx-auto
         p.text-center.mb-4 #[strong Cliente ocasional: ] sus adquisiciones no tienen una frecuencia establecida.
       .col-lg-3.vertical-cards--custom
         figure.mb-4(data-aos='zoom-in')
-          img(src='@/assets/curso/tema4/icon2.svg', alt='imagen de ambiente', style='width:190px;').mx-auto
+          img(src='@/assets/curso/tema4/icon2.svg', alt='Imágen decorativa', style='width:190px;').mx-auto
         p.text-center.mb-4 #[strong Cliente de compra regular:] la mayor parte de las compras las realiza en el establecimiento, pero también hay momentos donde adquiere en otra parte.
       .col-lg-3.vertical-cards--custom
         figure.mb-4(data-aos='zoom-in')
-          img(src='@/assets/curso/tema4/icon3.svg', alt='imagen de ambiente', style='width:190px;').mx-auto
+          img(src='@/assets/curso/tema4/icon3.svg', alt='Imágen decorativa', style='width:190px;').mx-auto
         p.text-center.mb-4 #[strong Cliente de compra frecuente: ] normalmente adquiere los productos del establecimiento
       .col-lg-3
         figure.mb-4(data-aos='zoom-in')
-          img(src='@/assets/curso/tema4/icon4.svg', alt='imagen de ambiente', style='width:190px;').mx-auto
+          img(src='@/assets/curso/tema4/icon4.svg', alt='Imágen decorativa', style='width:190px;').mx-auto
         p.text-center.mb-4 #[strong Clientes-embajadores: ] son los clientes frecuentes que, además, hacen propaganda con sus conocidos, sobre la calidad de nuestros productos.
 
     ol.lista-ol--cuadro.mb-5
@@ -235,19 +235,19 @@
       SlyderA    
         div
           figure
-            img(src='@/assets/curso/tema4/slyder1.svg', alt='imagen según su satisfacción: Clientes complacidos', style='width: 830px').mx-auto
+            img(src='@/assets/curso/tema4/slyder1.svg', alt='Imágen decorativa', style='width: 830px').mx-auto
         div
           figure
-            img(src='@/assets/curso/tema4/slyder2.svg', alt='imagen según su satisfacción: Clientes satisfechos', style='width: 830px').mx-auto
+            img(src='@/assets/curso/tema4/slyder2.svg', alt='Imágen decorativa', style='width: 830px').mx-auto
         div
           figure
-            img(src='@/assets/curso/tema4/slyder3.svg', alt='imagen según su satisfacción: Clientes indiferentes', style='width: 830px').mx-auto
+            img(src='@/assets/curso/tema4/slyder3.svg', alt='Imágen decorativa', style='width: 830px').mx-auto
         div
           figure
-            img(src='@/assets/curso/tema4/slyder4.svg', alt='imagen según su satisfacción: Clientes insatisfechos', style='width: 830px').mx-auto
+            img(src='@/assets/curso/tema4/slyder4.svg', alt='Imágen decorativa', style='width: 830px').mx-auto
         div
           figure
-            img(src='@/assets/curso/tema4/slyder5.svg', alt='imagen según su satisfacción: Clientes rehenes', style='width: 830px').mx-auto
+            img(src='@/assets/curso/tema4/slyder5.svg', alt='Imágen decorativa', style='width: 830px').mx-auto
 
     h3.mb-4 La satisfacción del cliente
     p.mb-4 La satisfacción del cliente es de vital importancia para una organización de salud. De su experiencia, depende que los servicios de la institución sean recomendados a otro usuario. Hay que mencionar además, que el nivel de satisfacción puede ser una de las claves para el aumento de rentabilidad de la organización.
@@ -283,7 +283,7 @@
                 | Mejorar la experiencia de usuario continuamente, a la hora de facilitar sus compras online, del contacto con atención al cliente, de los envíos, de la respuesta inmediata a problemas que puedan surgir.
       .col-lg-6.align-self-end
         figure.mt-4
-          img(src='@/assets/curso/tema4/img14.svg', alt='imagen de ambiente', style='width: 530px').mx-auto
+          img(src='@/assets/curso/tema4/img14.svg', alt='Imágen decorativa', style='width: 530px').mx-auto
     
     
       
@@ -291,7 +291,7 @@
     .row.justify-content-center.fondo-tarjeta--tema1V2.p-5
       .col-lg-6.align-self-start
         figure.mb-5
-          img(src='@/assets/curso/tema4/img15.svg', alt='imagen de ambiente', style='width: 430px').mx-auto
+          img(src='@/assets/curso/tema4/img15.svg', alt='Imágen decorativa', style='width: 430px').mx-auto
       .col-lg-6
         .row.p-4(style="background-color: #F5F8FA")
           .col-lg-12.p-4(style='border: 2px solid #825ef5')

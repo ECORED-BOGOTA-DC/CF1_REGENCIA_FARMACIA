@@ -20,7 +20,7 @@
 
       .col-lg-5.align-self-center
         figure.mb-2
-          img(src="@/assets/curso/intro.svg", alt="Imagen que acompaña", style='width:320px;').mx-auto
+          img(src="@/assets/curso/intro.svg", alt="Imágen decorativa", style='width:320px;').mx-auto
       
     p.ps-4 #[strong ¡Muchos éxitos en este proceso de aprendizaje!]
 

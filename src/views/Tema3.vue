@@ -11,7 +11,7 @@
       .row(style='margin-top:80px')
         .col-lg-4
           figure.mb-4(data-aos='zoom-out')
-            img(src='@/assets/curso/tema3/img1.png', alt='iamgen de ambiente', style="width:377px").mx-auto
+            img(src='@/assets/curso/tema3/img1.png', alt='Imágen decorativa', style="width:377px").mx-auto
         .col-lg-8
           .row
             .col-lg-9
@@ -34,9 +34,9 @@
                   p.texto-blanco Visite el enlace para conocer lo que dice el Departamento Nacional de Planeación, sobre cómo estamos, objetivos, qué vamos a hacer (estrategias) y metas.
 
                 .col-sm-auto
-                  a.boton.color-acento-botones(href="https://www.dnp.gov.co/DNPN/Plan-Nacional-de-Desarrollo/Paginas/Pilares-del-PND/Equidad/Salud-para-todos-con-calidad-y-eficiencia.aspx" target="_blank")
+                  a.boton.color-acento-botones(href="https://www.dnp.gov.co/" target="_blank")
                     span Ver
-                    i.fas.fa-link
+                    i.fas.fa-link 
 
 
 

@@ -20,7 +20,7 @@
           
       .col-lg-4.p-0
         figure(data-aos='zoom-out')
-          img(src="@/assets/curso/tema1/imgP.jpg", alt="imafen que acompaña la ley 100", style='width:592px;').mx-auto
+          img(src="@/assets/curso/tema1/imgP.jpg", alt="Imágen decorativa", style='width:592px;').mx-auto
 
     p.mb-4 Además, tiene por #[strong objeto] garantizar los derechos irrenunciables de la persona y la comunidad, para obtener la calidad de vida acorde con la dignidad humana, mediante la protección de las contingencias que las afecten.
     p.mb-5 Esta ley, en su Artículo 2, presenta los #[strong principios] bajo los cuales se rige la Seguridad Social Integral, estos se presentan en la siguiente imagen.
@@ -38,21 +38,21 @@
             .row.justify-content-center
               .col-auto
                 figure.mb-2
-                  img(src="@/assets/curso/tema1/icon1.svg", alt="eficiencia", style='width:190px;').mx-auto
+                  img(src="@/assets/curso/tema1/icon1.svg", alt="Imágen decorativa", style='width:190px;').mx-auto
             h4.text-center.mb-4 EFICIENCIA
             P Es la mejor utilización social y económica de los recursos administrativos, técnicos y financieros, disponibles para que los beneficios a los que da derecho la seguridad social sean prestados de forma adecuada, oportuna y suficiente.
           .col-md-3
             .row.justify-content-center
               .col-auto
                 figure.mb-2
-                  img(src="@/assets/curso/tema1/icon2.svg", alt="universalidad", style='width:190px;').mx-auto
+                  img(src="@/assets/curso/tema1/icon2.svg", alt="Imágen decorativa", style='width:190px;').mx-auto
             h4.text-center.mb-4 UNIVERSALIDAD 
             P Es la garantía de la protección para todas las personas, sin ninguna discriminación, en todas las etapas de su vida.
           .col-md-3
             .row.justify-content-center
               .col-auto
                 figure.mb-2
-                  img(src="@/assets/curso/tema1/icon3.svg", alt="eficiencia", style='width:190px;').mx-auto
+                  img(src="@/assets/curso/tema1/icon3.svg", alt="Imágen decorativa", style='width:190px;').mx-auto
             h4.text-center.mb-4 SOLIDARIDAD
             P Es la práctica de la mutua ayuda entre las personas, las generaciones, los sectores económicos, las regiones y las comunidades, bajo el principio del más fuerte hacia el más débil. Los recursos provenientes del erario público en el sistema de seguridad, se aplicarán siempre a los grupos de población más vulnerables.
         
@@ -61,21 +61,21 @@
             .row.justify-content-center
               .col-auto
                 figure.mb-2
-                  img(src="@/assets/curso/tema1/icon4.svg", alt="ingegralidad", style='width:190px;').mx-auto
+                  img(src="@/assets/curso/tema1/icon4.svg", alt="Imágen decorativa", style='width:190px;').mx-auto
             h4.text-center.mb-4 INTEGRALIDAD
             P Es la cobertura de todas las contingencias que afectan la salud, la capacidad económica y, en general, las condiciones de vida de toda la población. Para este efecto, cada quien contribuirá según su capacidad y recibirá lo necesario para atender sus contingencias, amparadas por esta ley.
           .col-md-3
             .row.justify-content-center
               .col-auto
                 figure.mb-2
-                  img(src="@/assets/curso/tema1/icon5.svg", alt="unidad", style='width:190px;').mx-auto
+                  img(src="@/assets/curso/tema1/icon5.svg", alt="Imágen decorativa", style='width:190px;').mx-auto
             h4.text-center.mb-4 UNIDAD 
             P Es la articulación de políticas, instituciones, regímenes, procedimientos y prestaciones, para alcanzar los fines de la seguridad social.
           .col-md-3
             .row.justify-content-center
               .col-auto
                 figure.mb-2
-                  img(src="@/assets/curso/tema1/icon6.svg", alt="participación", style='width:190px;').mx-auto
+                  img(src="@/assets/curso/tema1/icon6.svg", alt="Imágen decorativa", style='width:190px;').mx-auto
             h4.text-center.mb-4 PARTICIPACIÓN
             P Es la intervención de la comunidad, a través de los beneficiarios de la seguridad social, en la organización, control, gestión y fiscalización de las instituciones y del sistema en su conjunto.
 
@@ -90,7 +90,7 @@
       .col-lg-11
         .bloque-texto-custom.color-secundario.mb-5
           .bloque-texto-custom__img(
-            :style="{'background-image': `url(${require('@/assets/curso/tema1/tema1-1/img1.svg')})`}")
+            :style="{'background-image': `url(${require('@/assets/curso/tema1/tema1-1/img1.svg')})`}")(alt="Imágen decorativa")
           .bloque-texto-custom__texto 
             .row.justify-content-center
                 .col-10
@@ -108,14 +108,14 @@
         .row.justify-content-center(titulo="")
           .col-md-4
             figure.mb-3
-              img(src='@/assets/curso/tema1/tema1-1/img2.jpg', alt='', style='width:400px').mx-auto
+              img(src='@/assets/curso/tema1/tema1-1/img2.jpg', alt='Imágen decorativa', style='width:400px').mx-auto
           
           .col-md-6.mb-4.mb-md-0.align-self-center.linea-pasos--custom
             p Abstenerse de afectar directa o indirectamente en el disfrute del derecho fundamental a la salud, de adoptar decisiones que lleven al deterioro de la salud de la población y de realizar cualquier acción u omisión que pueda resultar en un daño en la salud de las personas. 
         .row.justify-content-center(titulo="")
           .col-md-4
             figure.mb-3
-              img(src='@/assets/curso/tema1/tema1-1/img3.jpg', alt='', style='width:420px').mx-auto
+              img(src='@/assets/curso/tema1/tema1-1/img3.jpg', alt='Imágen decorativa', style='width:420px').mx-auto
           
           .col-md-6.mb-4.mb-md-0.align-self-center.linea-pasos--custom
             p Formular y adoptar políticas de salud, dirigidas a garantizar el goce efectivo del derecho en igualdad de trato y oportunidades para toda la población, asegurando para su cumplimiento, la coordinación armónica de las acciones de todos los agentes del Sistema.
@@ -123,7 +123,7 @@
         .row.justify-content-center(titulo="")
           .col-md-4
             figure.mb-3
-              img(src='@/assets/curso/tema1/tema1-1/img4.jpg', alt='', style='width:416px').mx-auto
+              img(src='@/assets/curso/tema1/tema1-1/img4.jpg', alt='Imágen decorativa', style='width:416px').mx-auto
           
           .col-md-6.mb-4.mb-md-0.align-self-center.linea-pasos--custom
             p Formular y adoptar políticas que propendan hacia la promoción de la salud, prevención y atención de la enfermedad y rehabilitación de sus secuelas, mediante acciones colectivas e individuales. 
@@ -131,7 +131,7 @@
         .row.justify-content-center(titulo="")
           .col-md-4
             figure.mb-3
-              img(src='@/assets/curso/tema1/tema1-1/img5.jpg', alt='', style='width:420px;').mx-auto
+              img(src='@/assets/curso/tema1/tema1-1/img5.jpg', alt='Imágen decorativa', style='width:420px;').mx-auto
           
           .col-md-6.mb-4.mb-md-0.align-self-center.linea-pasos--custom
             p Establecer mecanismos para evitar la violación del derecho fundamental a la salud y determinar su régimen sancionatorio. 
@@ -139,7 +139,7 @@
         .row.justify-content-center(titulo="")
           .col-md-4
             figure.mb-3
-              img(src='@/assets/curso/tema1/tema1-1/img6.jpg', alt='', style='width:420px;').mx-auto
+              img(src='@/assets/curso/tema1/tema1-1/img6.jpg', alt='Imágen decorativa', style='width:420px;').mx-auto
           
           .col-md-6.mb-4.mb-md-0.align-self-center.linea-pasos--custom
             p Ejercer una adecuada inspección, vigilancia y control, mediante un órgano y/o las entidades especializadas que se determinen para tal efecto. 
@@ -147,7 +147,7 @@
         .row.justify-content-center(titulo="")
           .col-md-4
             figure.mb-3
-              img(src='@/assets/curso/tema1/tema1-1/img7.jpg', alt='', style='width:420px;').mx-auto
+              img(src='@/assets/curso/tema1/tema1-1/img7.jpg', alt='Imágen decorativa', style='width:420px;').mx-auto
           
           .col-md-6.mb-4.mb-md-0.align-self-center.linea-pasos--custom
             p Velar por el cumplimiento de los principios del derecho fundamental a la salud, en todo el territorio nacional, según las necesidades de salud de la población. 
@@ -155,7 +155,7 @@
         .row.justify-content-center(titulo="")
           .col-md-4
             figure.mb-3
-              img(src='@/assets/curso/tema1/tema1-1/img8.jpg', alt='', style='width:420px;').mx-auto
+              img(src='@/assets/curso/tema1/tema1-1/img8.jpg', alt='Imágen decorativa', style='width:420px;').mx-auto
           
           .col-md-6.mb-4.mb-md-0.align-self-center.linea-pasos--custom
             p Realizar el seguimiento continuo de la evolución de las condiciones de salud de la población, a lo largo del ciclo de vida de las personas. 
@@ -164,7 +164,7 @@
         .row.justify-content-center(titulo="")
           .col-md-4
             figure.mb-3
-              img(src='@/assets/curso/tema1/tema1-1/img9.jpg', alt='', style='width:420px;').mx-auto
+              img(src='@/assets/curso/tema1/tema1-1/img9.jpg', alt='Imágen decorativa', style='width:420px;').mx-auto
           
           .col-md-6.mb-4.mb-md-0.align-self-center.linea-pasos--custom
             p Realizar evaluaciones sobre los resultados de goce efectivo del derecho fundamental a la salud, en función de sus principios y sobre la forma como el Sistema avanza, de manera razonable y progresiva, en la garantía al derecho fundamental de la salud.
@@ -172,7 +172,7 @@
         .row.justify-content-center(titulo="")
           .col-md-4
             figure.mb-3
-              img(src='@/assets/curso/tema1/tema1-1/img10.jpg', alt='', style='width:420px;').mx-auto
+              img(src='@/assets/curso/tema1/tema1-1/img10.jpg', alt='Imágen decorativa', style='width:420px;').mx-auto
           
           .col-md-6.mb-4.mb-md-0.align-self-center.linea-pasos--custom
             p Adoptar la regulación y las políticas indispensables para financiar, de manera sostenible, los servicios de salud y garantizar el flujo de los recursos para atender, de manera oportuna y suficiente, las necesidades en la salud de la población.
@@ -180,7 +180,7 @@
         .row.justify-content-center(titulo="")
           .col-md-4
             figure.mb-3
-              img(src='@/assets/curso/tema1/tema1-1/img11.jpg', alt='', style='width:420px;').mx-auto
+              img(src='@/assets/curso/tema1/tema1-1/img11.jpg', alt='Imágen decorativa', style='width:420px;').mx-auto
           
           .col-md-6.mb-4.mb-md-0.align-self-center.linea-pasos--custom
             p Intervenir el mercado de medicamentos, dispositivos médicos e insumos en salud, con el fin de optimizar su utilización; evitar las inequidades en el acceso, asegurar la calidad de los mismos o, en general, cuando pueda derivarse una grave afectación de la prestación del servicio. 
@@ -220,14 +220,14 @@
       
       .col-lg-4.align-self-center
         figure(data-aos='zoom-out')
-          img(src='@/assets/curso/tema1/tema1-1/img12.png', alt='Imagen ambiental', style='width:287px;').mx-auto
+          img(src='@/assets/curso/tema1/tema1-1/img12.png', alt='Imágen decorativa', style='width:287px;').mx-auto
 
 
     .row.justify-content-center.mb-3
       .col-lg-11
         .bloque-texto-custom.color-secundario.mb-5
           .bloque-texto-custom__img(
-            :style="{'background-image': `url(${require('@/assets/curso/tema1/tema1-1/img13.svg')})`}")
+            :style="{'background-image': `url(${require('@/assets/curso/tema1/tema1-1/img13.svg')})`}")(alt="Imágen decorativa")
           .bloque-texto-custom__texto
             p.mb-0.mt-5 #[strong Recuerde que:] el Sistema de Seguridad Social Integral ha sido instituido para unificar la normatividad y la planeación de la seguridad social, así como también para coordinar a las entidades prestatarias de las mismas, para obtener las finalidades propuestas en la presente ley.
 
@@ -246,7 +246,7 @@
           span Composición Sistema de Seguridad Social Integral
 
         figure(style='margin-bottom:80px;')
-          img.mb-3(src='@/assets/curso/tema1/tema1-2/img1.svg', alt='Composición Sistema de Seguridad Social Integral').mx-auto
+          img.mb-3(src='@/assets/curso/tema1/tema1-2/img1.svg', alt='Muestra composición sistema de seguridad social integral:<br>Sistema General de Seguridad Social en Salud<br>Sistema General de Riesgos Profesionales<br>Sistema General de Seguridad Social Integral en Colombia<br>Sistema General de Pensiones<br>Servicios Sociales Complementarios').mx-auto
           p.text-center Nota. Sena (2021).
 
     p.mb-5 Estos sistemas son medidos por medio de indicadores, suministrados por las diferentes entidades, como:
@@ -257,7 +257,7 @@
         .row
           .col-xl-6.mb-4
             figure
-              img(src='@/assets/curso/tema1/tema1-2/img2.png', alt='Sistema Integral de Información de la Protección Social (SISPRO)')
+              img(src='@/assets/curso/tema1/tema1-2/img2.png', alt='Muestra logo Sistema Integral de Información de la Protección Social (SISPRO)')
           .col-xl-6
             p A partir del 2014, el Sistema Integrado de Información de la Protección Social (SISPRO), se encarga de suministrar un archivo que contiene la cantidad de afiliados al sistema de seguridad social en salud, tanto del régimen contributivo como del subsidiado. Además, para el régimen contributivo, se presentan las categorías activo o suspendido y si es cotizante, beneficiario o adicional. 
       
@@ -267,7 +267,7 @@
         .row
           .col-xl-6.mb-4
             figure
-              img(src='@/assets/curso/tema1/tema1-2/img3.png', alt='Superintendencia Financiera de Colombia ')
+              img(src='@/assets/curso/tema1/tema1-2/img3.png', alt='Muestra logo Superintendencia Financiera de Colombia')
           .col-xl-6
             p La Superintendencia Financiera de Colombia, se encarga de suministrar un archivo que contiene la cantidad de afiliados y pensionados, tanto al Régimen de Prima Media (RPM) administrado por Colpensiones, como al Régimen de Ahorro Individual con Solidaridad (RAIS), administrado por fondos privados de pensiones. 
         
@@ -276,7 +276,7 @@
         .row
           .col-xl-6.mb-4
             figure
-              img(src='@/assets/curso/tema1/tema1-2/img4.png', alt='Dirección de Riesgos Laborales del Ministerio de Trabajo')
+              img(src='@/assets/curso/tema1/tema1-2/img4.png', alt='Muestra logo: Dirección de Riesgos Laborales del Ministerio de Trabajo')
           .col-xl-6
             p Suministra un archivo con la cantidad de trabajadores y empresas afiliadas al Sistema General de Riesgos Laborales en Colombia. 
       
@@ -285,10 +285,10 @@
         .row.justify-content-center
           .col-xl-4.mb-4
             figure
-              img(src='@/assets/curso/tema1/tema1-2/img5.svg', alt='Fondo Nacional del Ahorro')
+              img(src='@/assets/curso/tema1/tema1-2/img5.svg', alt='Muestra logo Fondo Nacional del Ahorro')
 
             figure
-              img(src='@/assets/curso/tema1/tema1-2/img5-2.svg', alt='Superintendencia Financiera de Colombia') 
+              img(src='@/assets/curso/tema1/tema1-2/img5-2.svg', alt='Muestra logo Superintendencia Financiera de Colombia') 
 
           .col-xl-6
             p Suministran un archivo con la cantidad de afiliados a los fondos privados de cesantías, y al Fondo Nacional del Ahorro. 
@@ -301,7 +301,7 @@
         .row
           .col-xl-6.mb-4
             figure
-              img(src='@/assets/curso/tema1/tema1-2/img6.svg', alt='La Superintendencia de Subsidio Familiar')
+              img(src='@/assets/curso/tema1/tema1-2/img6.svg', alt='Muestra logo Superintendencia de Subsidio Familiar')
           .col-xl-6
             p Suministra un archivo con datos de la cantidad de trabajadores y empresas afiliadas al Sistema de Subsidio Familiar en Colombia. 
 
@@ -309,7 +309,7 @@
     .row.justify-content-center.mb-4
       .col-lg-4
         figure.mb-4
-          img(src='@/assets/curso/tema1/tema1-2/img7.svg', alt='imagen ambiental', style='width:348px').mx-auto
+          img(src='@/assets/curso/tema1/tema1-2/img7.svg', alt='Imágen decorativa', style='width:348px').mx-auto
       .col-lg-6
         .cajon.color-secundario.p-5.mb-4(data-aos='fade-up')
           p El Ministerio de Salud y Protección Social, divulgará evaluaciones anuales sobre los resultados del goce efectivo del derecho fundamental a la salud, en función de los elementos esenciales de accesibilidad, disponibilidad, aceptabilidad y calidad y, con base en los resultados de dicha evaluación, se deberán implementar y diseñar políticas públicas tendientes a mejorar las condiciones de salud de la población.    
@@ -326,7 +326,7 @@
       .col-lg-11
         .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5.mb-5
           .bloque-texto-g__img(
-            :style="{'background-image': `url(${require('@/assets/curso/tema1/tema1-3/img1.jpg')})`}")
+            :style="{'background-image': `url(${require('@/assets/curso/tema1/tema1-3/img1.jpg')})`}")(alt="Imágen decorativa")
           .bloque-texto-g__texto.p-4
             i.fas.fa-quote-right.mb-5.mt-4(style="color: #00BCD4 !important ;font-size:35px !important")
             p.mb-4 “Una institución jurídica cuyo propósito fundamental es el de reducir los efectos nocivos de la desigualdad material. Todo lo anterior debe ser entendido como una acción positiva en favor de quienes, por razones particulares, se encuentran en una situación de debilidad manifiesta. No obstante, la condición del sujeto, de especial protección constitucional, no excluye ni elimina el deber de autogestión que tienen todos los individuos para hacer valer sus derechos”
@@ -371,7 +371,7 @@
 
           .col.align-self-center
             figure.mb-4
-              img(src='@/assets/curso/tema1/tema1-3/img2.png' alt='imagen ambiental', style='width:500px;').mx-auto
+              img(src='@/assets/curso/tema1/tema1-3/img2.png' alt='Imágen decorativa', style='width:500px;').mx-auto
 
     .row.justify-content-center
       .col-lg-10
@@ -379,7 +379,7 @@
           .row.m-0.align-items-center.justify-content-between
             .col-lg-2.mb-4.mb-lg-0
               figure.py-3
-                img(src='@/assets/curso/tema1/tema1-3/img3.svg' alt='imagen ambiental', style='width: 144px;').mx-auto
+                img(src='@/assets/curso/tema1/tema1-3/img3.svg' alt='Imágen decorativa', style='width: 144px;').mx-auto
             .col-lg-10
               .bloque-texto-a__texto.p-4
                 p Su atención en salud no estará limitada por ningún tipo de restricción administrativa o económica. Las instituciones que hagan parte del sector salud, deberán definir procesos de atención intersectoriales e interdisciplinarios que les garanticen las mejores condiciones de atención.
@@ -409,7 +409,7 @@
         .row.justify-content-center.pt-5
           .col-lg-5.align-self-center
             figure
-              img(src='@/assets/curso/tema1/tema1-4/img1.png' alt='imagen ambiental', style='width: 482px;').mx-auto
+              img(src='@/assets/curso/tema1/tema1-4/img1.png' alt='Imágen decorativa', style='width: 482px;').mx-auto
           .col-lg-7
             p.m-4 El Ministerio de Salud regula el derecho fundamental a la Salud, basada en unos principios y elementos esenciales que serán los encargados de impactar la prestación de los servicios y tecnologías en salud, con el fin de asegurar una atención acorde con las necesidades de la población. Es la primera ley de su clase para un derecho social y reconoce a la salud como un derecho fundamental.
             p.m-4 La siguiente imagen nos presenta los componentes de esta Ley.

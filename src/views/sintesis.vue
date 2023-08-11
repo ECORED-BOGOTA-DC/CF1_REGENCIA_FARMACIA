@@ -10,7 +10,7 @@
     .row.justify-content-center
       .col-lg-10.mb-5
         figure
-          img(src="@/assets/curso/sintesis.svg", alt="alt")
+          img(src="@/assets/curso/sintesis.svg", alt="Muesetra mapa conceptual donde resume contenidos del Sistema general de seguridad social,  mostrando  la función de garantizar a toda la población el acceso a una seguridad social, entendida esta según el artículo 48 de la Constitución Política, como un servicio público de carácter obligatorio que se presta bajo el control del estado, basado en los principios de universalidad, eficiencia y solidaridad, actualmente este sistema se encuentra a cargo del Ministerio de Salud y Protección Social.")
       .col-auto
         a.anexo.mb-4(:href="obtenerLink('/downloads/sintesis.pdf')" target="_blank")
           .anexo__icono
