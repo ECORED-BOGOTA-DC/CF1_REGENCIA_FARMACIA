@@ -8,11 +8,11 @@
       h1  Sistema General de Seguridad Social Integral
 
 
-    p.mb-4 La Ley 100 de 1993 define el Sistema de Seguridad Social Integral de la siguiente manera:
+    p.mb-4(data-aos="fade-right") La Ley 100 de 1993 define el Sistema de Seguridad Social Integral de la siguiente manera:
     .row.mb-4.margen-negativo--derecha
       .col-lg-8.px-5.align-self-center
         .bloque-texto-d.color-secundario.p-2
-          .bloque-texto-d__texto.mb-2.mt-4
+          .bloque-texto-d__texto.mb-2.mt-4(data-aos="fade-right")
             i.fas.fa-quote-left
             span.text-regular La Seguridad Social Integral es el conjunto de instituciones, normas y procedimientos, de que disponen la persona y la comunidad para gozar de una calidad de vida, mediante el cumplimiento progresivo de los planes y programas que el Estado y la sociedad desarrollen para proporcionar la cobertura integral de las contingencias, especialmente las que menoscaban la salud y la capacidad económica, de los habitantes del territorio nacional, con el fin de lograr el bienestar individual y la integración de la comunidad (p.2).
             i.fas.fa-quote-right
@@ -22,10 +22,10 @@
         figure(data-aos='zoom-out')
           img(src="@/assets/curso/tema1/imgP.jpg", alt="Imágen decorativa", style='width:592px;').mx-auto
 
-    p.mb-4 Además, tiene por #[strong objeto] garantizar los derechos irrenunciables de la persona y la comunidad, para obtener la calidad de vida acorde con la dignidad humana, mediante la protección de las contingencias que las afecten.
-    p.mb-5 Esta ley, en su Artículo 2, presenta los #[strong principios] bajo los cuales se rige la Seguridad Social Integral, estos se presentan en la siguiente imagen.
+    p.mb-4(data-aos="fade-up") Además, tiene por #[strong objeto] garantizar los derechos irrenunciables de la persona y la comunidad, para obtener la calidad de vida acorde con la dignidad humana, mediante la protección de las contingencias que las afecten.
+    p.mb-5(data-aos="fade-up") Esta ley, en su Artículo 2, presenta los #[strong principios] bajo los cuales se rige la Seguridad Social Integral, estos se presentan en la siguiente imagen.
 
-    .titulo-sexto.color-acento-contenido.mb-5
+    .titulo-sexto.color-acento-contenido.mb-5(data-aos="fade-right")
       h5 Figura 1
       span Principios bajo los cuales se rige la Seguridad Social Integral
 
@@ -34,21 +34,21 @@
     .row.justify-content-center.mb-4.fondo-tarjeta--tema1
       .col-lg-9
         .row.mb-5(style="justify-content:space-around")
-          .col-md-3
+          .col-md-3(data-aos="fade-up-right")
             .row.justify-content-center
               .col-auto
                 figure.mb-2
                   img(src="@/assets/curso/tema1/icon1.svg", alt="Imágen decorativa", style='width:190px;').mx-auto
             h4.text-center.mb-4 EFICIENCIA
             P Es la mejor utilización social y económica de los recursos administrativos, técnicos y financieros, disponibles para que los beneficios a los que da derecho la seguridad social sean prestados de forma adecuada, oportuna y suficiente.
-          .col-md-3
+          .col-md-3(data-aos="fade-up")
             .row.justify-content-center
               .col-auto
                 figure.mb-2
                   img(src="@/assets/curso/tema1/icon2.svg", alt="Imágen decorativa", style='width:190px;').mx-auto
             h4.text-center.mb-4 UNIVERSALIDAD 
             P Es la garantía de la protección para todas las personas, sin ninguna discriminación, en todas las etapas de su vida.
-          .col-md-3
+          .col-md-3(data-aos="fade-up-left")
             .row.justify-content-center
               .col-auto
                 figure.mb-2
@@ -57,21 +57,21 @@
             P Es la práctica de la mutua ayuda entre las personas, las generaciones, los sectores económicos, las regiones y las comunidades, bajo el principio del más fuerte hacia el más débil. Los recursos provenientes del erario público en el sistema de seguridad, se aplicarán siempre a los grupos de población más vulnerables.
         
         .row.mb-5(style="justify-content:space-around")
-          .col-md-3
+          .col-md-3(data-aos="fade-up-right")
             .row.justify-content-center
               .col-auto
                 figure.mb-2
                   img(src="@/assets/curso/tema1/icon4.svg", alt="Imágen decorativa", style='width:190px;').mx-auto
             h4.text-center.mb-4 INTEGRALIDAD
             P Es la cobertura de todas las contingencias que afectan la salud, la capacidad económica y, en general, las condiciones de vida de toda la población. Para este efecto, cada quien contribuirá según su capacidad y recibirá lo necesario para atender sus contingencias, amparadas por esta ley.
-          .col-md-3
+          .col-md-3(data-aos="fade-up")
             .row.justify-content-center
               .col-auto
                 figure.mb-2
                   img(src="@/assets/curso/tema1/icon5.svg", alt="Imágen decorativa", style='width:190px;').mx-auto
             h4.text-center.mb-4 UNIDAD 
             P Es la articulación de políticas, instituciones, regímenes, procedimientos y prestaciones, para alcanzar los fines de la seguridad social.
-          .col-md-3
+          .col-md-3(data-aos="fade-up-left")
             .row.justify-content-center
               .col-auto
                 figure.mb-2
@@ -82,13 +82,13 @@
 
 
     separador
-    #t_1_1.titulo-segundo.color-acento-contenido
+    #t_1_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       .h2 1.1 Obligaciones del Estado
 
 
     .row.justify-content-center.mb-3
       .col-lg-11
-        .bloque-texto-custom.color-secundario.mb-5
+        .bloque-texto-custom.color-secundario.mb-5(data-aos="flip-down")
           .bloque-texto-custom__img(
             :style="{'background-image': `url(${require('@/assets/curso/tema1/tema1-1/img1.svg')})`}")(alt="Imágen decorativa")
           .bloque-texto-custom__texto 
@@ -192,7 +192,7 @@
       .col-lg-8
         .row.mb-3
           .col-lg-12
-            .row.justify-content-center.mb-3
+            .row.justify-content-center.mb-3(data-aos="fade-up-right")
               .col-auto.align-self-center
                 ol.lista-ol
                   li 
@@ -201,7 +201,7 @@
                 p.mb-3  Garantizar las prestaciones económicas y de salud, a quienes tienen una relación laboral o capacidad económica suficiente para afiliarse al sistema.
           
           .col-lg-12
-            .row.justify-content-center.mb-3
+            .row.justify-content-center.mb-3(data-aos="fade-up-right")
               .col-auto.align-self-center
                 ol.lista-ol
                   li 
@@ -210,7 +210,7 @@
                 p.mb-3  Garantizar la prestación de los servicios sociales complementarios, en los términos de la presente ley.
           
           .col-lg-12
-            .row.justify-content-center.mb-3
+            .row.justify-content-center.mb-3(data-aos="fade-up-right")
               .col-auto.align-self-center
                 ol.lista-ol
                   li 
@@ -225,7 +225,7 @@
 
     .row.justify-content-center.mb-3
       .col-lg-11
-        .bloque-texto-custom.color-secundario.mb-5
+        .bloque-texto-custom.color-secundario.mb-5(data-aos="flip-down")
           .bloque-texto-custom__img(
             :style="{'background-image': `url(${require('@/assets/curso/tema1/tema1-1/img13.svg')})`}")(alt="Imágen decorativa")
           .bloque-texto-custom__texto
@@ -234,14 +234,14 @@
 
 
     separador
-    #t_1_2.titulo-segundo.color-acento-contenido
+    #t_1_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       .h2 1.2 Evaluación de indicadores
 
     p.mb-5 De acuerdo con la Ley 100 de 1993, el Sistema de Seguridad Social Integral en Colombia se compone de:
 
     .row.justify-content-center.mb-5.fondo-tarjeta--tema1V2
       .col-lg-8
-        .titulo-sexto.color-acento-contenido.mb-5
+        .titulo-sexto.color-acento-contenido.mb-5(data-aos="fade-right")
           h5 Figura 2
           span Composición Sistema de Seguridad Social Integral
 
@@ -317,7 +317,7 @@
 
 
     separador
-    #t_1_3.titulo-segundo.color-acento-contenido
+    #t_1_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       .h2 1.3 Sujetos de especial protección constitucional
 
     p.mb-5 La Corte Constitucional, bajo la sentencia T-293 del 2017, define la categoría “sujeto de especial protección constitucional”, como:
@@ -374,7 +374,7 @@
               img(src='@/assets/curso/tema1/tema1-3/img2.png' alt='Imágen decorativa', style='width:500px;').mx-auto
 
     .row.justify-content-center
-      .col-lg-10
+      .col-lg-10(data-aos="flip-down")
         .bloque-texto-a.color-primario.ps-3.mb-5.pe-4.pt-3.pb-3
           .row.m-0.align-items-center.justify-content-between
             .col-lg-2.mb-4.mb-lg-0
@@ -390,16 +390,16 @@
     .row.justify-content-center
       .col-lg-11
         ul.lista-ul
-          li.mb-4
+          li.mb-4(data-aos="fade-up")
             i.fas.fa-angle-right
             | #[strong Parágrafo 1º. ] Las víctimas de cualquier tipo de violencia sexual tienen derecho a acceder, de manera prioritaria, a los tratamientos sicológicos y siquiátricos que requieran.
-          li 
+          li(data-aos="fade-up")
             i.fas.fa-angle-right
             | #[strong Parágrafo 2°. ] En el caso de las personas víctimas de la violencia y del conflicto armado, el Estado desarrollará el programa de atención psicosocial y salud integral, a las víctimas de que trata el artículo 137 de la Ley 1448 de 2011.
 
 
     separador
-    #t_1_4.titulo-segundo.color-acento-contenido
+    #t_1_4.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       .h2 1.4 Mecanismos de protección del derecho fundamental a la salud
 
 

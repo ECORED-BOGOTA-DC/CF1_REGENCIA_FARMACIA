@@ -14,8 +14,8 @@
             figure(data-aos='zoom-out')
               img(src='@/assets/curso/tema4/img1.png', alt='imagen de ambiente Mercado según la mercadotecnia', style="width:338px").mx-auto
           .col-lg-7.align-self-center
-            h4.mb-4 Mercado según la mercadotecnia:
-            p.mb-4.pe-4 Es el conjunto de consumidores que quieren, pueden y están dispuestos a comprar o vender un producto ofertado. En el ámbito de salud, este se caracteriza porque las personas que ofrecen sus productos o servicios pueden competir, sin ningún problema, por los consumidores de estos; y los consumidores, al mismo tiempo, pueden elegir qué clase de prestaciones o productos van a elegir.
+            h4.mb-4(data-aos="fade-up-left") Mercado según la mercadotecnia:
+            p.mb-4.pe-4(data-aos="fade-up-left") Es el conjunto de consumidores que quieren, pueden y están dispuestos a comprar o vender un producto ofertado. En el ámbito de salud, este se caracteriza porque las personas que ofrecen sus productos o servicios pueden competir, sin ningún problema, por los consumidores de estos; y los consumidores, al mismo tiempo, pueden elegir qué clase de prestaciones o productos van a elegir.
 
     p.mb-4 A continuación, se invita a explorar la siguiente infografía que contiene conceptos de mercado, proveedor y cliente, tocando o situando el cursor sobre los circulos amarillos:
 
@@ -55,7 +55,7 @@
     
 
     .row.justify-content-center(style='margin-bottom:60px')
-      .col-lg-8.align-self-center
+      .col-lg-8.align-self-center(data-aos="fade-up-left")
         .bloque-texto-d.color-secundario.p-2
           .bloque-texto-d__texto.mb-2.mt-4
             i.fas.fa-quote-left

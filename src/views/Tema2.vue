@@ -9,10 +9,10 @@
     
     .row.justify-content-center.mb-5
       .col-lg-6
-        p.mb-4 Teniendo presente que la salud y la vida de los seres humanos son el eje central del Estado, se hace necesario construir una red de servicios que responda a los derechos universales de la salud, con equidad, calidad y humanismo que se fundamenten en un contrato social para la salud, a nivel nacional, pero con énfasis primordial a nivel municipal, para fortalecer la gestión territorial de la salud.
-        p.mb-4 Es así como la búsqueda del acceso universal de la salud en el marco de garantizar el ejercicio del derecho a la salud, se debe caracterizar por crear condiciones para (Werner, Palma, Echavarría y Rosales, s.f. p.5): 
+        p.mb-4(data-aos="fade-right") Teniendo presente que la salud y la vida de los seres humanos son el eje central del Estado, se hace necesario construir una red de servicios que responda a los derechos universales de la salud, con equidad, calidad y humanismo que se fundamenten en un contrato social para la salud, a nivel nacional, pero con énfasis primordial a nivel municipal, para fortalecer la gestión territorial de la salud.
+        p.mb-4(data-aos="fade-right") Es así como la búsqueda del acceso universal de la salud en el marco de garantizar el ejercicio del derecho a la salud, se debe caracterizar por crear condiciones para (Werner, Palma, Echavarría y Rosales, s.f. p.5): 
       .col-lg-4
-        figure
+        figure(data-aos="fade-left")
           img(src="@/assets/curso/tema2/img1.svg", alt="Imágen decorativa", style="width:406;").mx-auto
 
     .row.justify-content-center.mb-4
@@ -63,7 +63,7 @@
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10
-        .titulo-sexto.color-acento-contenido
+        .titulo-sexto.color-acento-contenido(data-aos="fade-right")
           h5 Figura 4
           span Beneficios de la PAIS
 
@@ -85,13 +85,13 @@
 
 
     separador
-    #t_2_1.titulo-segundo.color-acento-contenido
+    #t_2_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       .h2 2.1 Modelo de Atención Integral en Salud (MIAS) 
     
 
     .row.justify-content-center
       .col-lg-11
-        .bloque-texto-a.color-primario.ps-3.mb-5.pe-4.pt-3.pb-3
+        .bloque-texto-a.color-primario.ps-3.mb-5.pe-4.pt-3.pb-3(data-aos="flip-up")
           .row.m-0.align-items-center.justify-content-between
             .col-lg-3.mb-4.mb-lg-0
               figure.py-3
@@ -102,27 +102,27 @@
 
     
     separador
-    #t_2_2.titulo-segundo.color-acento-contenido
+    #t_2_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       .h2 2.2 Modelo de Acción Integral Territorial (MAITE)
 
-    p.mb-4 Posterior a ello, surge la Resolución 2626 del 2019, que tiene por objeto modificar la Política de Atención Integral de Salud (PAIS) y adoptar el Modelo de Acción Integral Territorial (MAITE) para su implementación.
+    p.mb-4(data-aos="fade-right") Posterior a ello, surge la Resolución 2626 del 2019, que tiene por objeto modificar la Política de Atención Integral de Salud (PAIS) y adoptar el Modelo de Acción Integral Territorial (MAITE) para su implementación.
 
-    p.mb-4 El MAITE es el conjunto de acciones y herramientas que, por medio de acuerdos interinstitucionales y comunitarios orienta, de forma articulada, la gestión de los integrantes del sistema de salud en el territorio, para responder a las prioridades de salud de la población y contribuir al mejoramiento de la salud, la satisfacción de las expectativas de los ciudadanos y la sostenibilidad del sistema, bajo el liderazgo del departamento o distrito.
+    p.mb-4(data-aos="fade-right") El MAITE es el conjunto de acciones y herramientas que, por medio de acuerdos interinstitucionales y comunitarios orienta, de forma articulada, la gestión de los integrantes del sistema de salud en el territorio, para responder a las prioridades de salud de la población y contribuir al mejoramiento de la salud, la satisfacción de las expectativas de los ciudadanos y la sostenibilidad del sistema, bajo el liderazgo del departamento o distrito.
 
-    p.mb-5 En la siguiente imagen podemos estudiar cuáles son sus objetivos:
+    p.mb-5(data-aos="fade-right") En la siguiente imagen podemos estudiar cuáles son sus objetivos:
 
     
 
     .row.justify-content-center.fondo-tarjeta--tema2.mb-5
       .col-lg-10
-        .titulo-sexto.color-acento-contenido
+        .titulo-sexto.color-acento-contenido(data-aos="fade-right")
           h5 Figura 5
           span Objetivos MAITE
 
         figure.mb-4(style='')
           img(src='@/assets/curso/tema2/img9.svg', alt='Muestra objetivos MAITE: <br>OBJETIVOS <br>Garantizar el derecho fundamental a la salud. <br>Fortalecer la autoridad sanitaria. <br>Articular los agentes del sistema de salud y los actores territoriales en torno a las acciones requeridas para el logro de los resultados de salud. <br>Ajustar las respuestas del sistema de salud, a las necesidades de los territorios y a sus poblaciones. <br>Mejorar las condiciones de salud de la población, la satisfacción de los usuarios frente al sistema de salud, y la sostenibilidad financiera del mismo.', style="").mx-auto
 
-    p.mb-4 Para ampliar la información, descargue el PDF de la Resolución 2626 de 2019, por la cual se modifica la Política de Atención Integral en Salud (PAIS) y se adopta el Modelo de Acción Integral Territorial (MAITE).
+    p.mb-4(data-aos="fade-right") Para ampliar la información, descargue el PDF de la Resolución 2626 de 2019, por la cual se modifica la Política de Atención Integral en Salud (PAIS) y se adopta el Modelo de Acción Integral Territorial (MAITE).
 
     .row.mb-5
       .col-lg-4
