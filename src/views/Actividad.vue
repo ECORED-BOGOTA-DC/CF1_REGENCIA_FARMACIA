@@ -10,15 +10,14 @@
             img(src="@/assets/template/arrastrar_Soltar.svg", alt="Texto que describa la imagen")
       .col-12.col-md-8.col-lg-9
         .titulo-segundo.color-acento-contenido
-          h2 Políticas de atención en salud.
-
+          h2 Políticas de atención en salud
         p.mb-4 Identificar las políticas que tiene el estado para garantizar la seguridad social integral a todos los habitantes de la nación y con esto implementar los programas necesarios para que esta atención sea de calidad
         .tarjeta.actividad.p-3
           .row.justify-content-around.align-items-center            
             .col-sm.mb-3.mb-sm-0
               p.fw-bold.mb-0 Arrastrar y soltar
             .col-auto
-              a.boton.boton--b(:href="obtenerLink('/actividades/actividad/index.html')" target="_blank")
+              a.boton.boton--b(:href="obtenerLink('/actividades/index.html')" target="_blank")
                 span Realizar
                 i.fas.fa-puzzle-piece
                 

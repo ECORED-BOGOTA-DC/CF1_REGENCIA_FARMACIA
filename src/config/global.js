@@ -134,7 +134,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/331502_CF01_DU.pdf',
+        download: 'downloads/331502_CF01_DU.zip',
       },
       {
         icono: 'fas fa-download',
@@ -357,13 +357,13 @@ export default {
         {
           nombre: 'Ana Catalina Córdoba Sus',
           cargo:
-            'Diseñadora Instruccional – Revisora Metodológica y Pedagógica - 2021',
+            'Diseñadora instruccional – Revisora metodológica y pedagógica - 2021',
           centro:
             'Centro para la Industria de la Comunicación Gráfica - Regional Distrito Capital',
         },
         {
           nombre: 'Rafael Neftali Lizcano Reyes',
-          cargo: 'Asesor Pedagógico 2021',
+          cargo: 'Asesor pedagógico 2021',
           centro:
             'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
@@ -380,13 +380,13 @@ export default {
         },
         {
           nombre: 'Manuel Felipe Echavarria Orozco',
-          cargo: 'Desarrollador Fullstack - 2023',
+          cargo: 'Desarrollo fullstack - 2023',
           centro:
             'Centro de Gestión De Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },
         {
           nombre: 'Ernesto Navarro Jaimes',
-          cargo: 'Animador y Producción audiovisual',
+          cargo: 'Animación y producción audiovisual',
           centro:
             'Centro de Gestión De Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },
@@ -397,19 +397,21 @@ export default {
       autores: [
         {
           nombre: 'Carolina Coca Salazar',
-          cargo: 'Evaluadora de contenidos inclusivos y accesibles',
+          cargo: 'Evaluación de contenidos inclusivos y accesibles',
           centro:
             'Centro de Gestión De Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },
         {
           nombre: 'Lina Marcela Pérez Manchego',
-          cargo: 'Validadora de recursos educativos',
+          cargo:
+            'Validación de recursos educativos digitales y vinculación al LMS',
           centro:
             'Centro de Gestión De Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },
         {
           nombre: 'Leyson Fabian Castaño Pérez',
-          cargo: 'Validadora de recursos educativos',
+          cargo:
+            'Validación de recursos educativos digitales y vinculación al LMS',
           centro:
             'Centro de Gestión De Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },
