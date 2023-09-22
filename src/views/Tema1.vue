@@ -23,8 +23,7 @@
     p.mb-4(data-aos="fade-up") Además, tiene por #[strong objeto] garantizar los derechos irrenunciables de la persona y la comunidad, para obtener la calidad de vida acorde con la dignidad humana, mediante la protección de las contingencias que las afecten.
     p.mb-5(data-aos="fade-up") Esta ley, en su Artículo 2, presenta los #[strong principios] bajo los cuales se rige la Seguridad Social Integral, estos se presentan en la siguiente imagen.
     .titulo-sexto.color-acento-contenido.mb-5(data-aos="fade-right")
-      h5 Figura 1
-      span Principios bajo los cuales se rige la Seguridad Social Integral
+      p.mb-0 #[b Figura 1]. Principios bajo los cuales se rige la Seguridad Social Integral
     .h4.mb-5.text-center(data-aos="fade-left") PRINCIPIOS: LEY 100 DE 1993
     .row.justify-content-center.fondo-tarjeta--tema1(data-aos="fade-down")
       .col-lg-9
@@ -89,68 +88,67 @@
     .tarjeta.tarjeta--gris.p-4.mb-5(data-aos="fade-left")
       LineaTiempoC.color-secundario
         .row.justify-content-center(titulo="")
-          .col-md-4
+          .col-lg-4
             figure.mb-3
               img(src='@/assets/curso/tema1/tema1-1/img2.jpg', alt='Imágen decorativa', style='width:400px').mx-auto
           
-          .col-md-6.mb-4.mb-md-0.align-self-center.linea-pasos--custom
+          .col-lg-6.mb-4.mb-lg-0.align-self-center.linea-pasos--custom
             p Abstenerse de afectar directa o indirectamente en el disfrute del derecho fundamental a la salud, de adoptar decisiones que lleven al deterioro de la salud de la población y de realizar cualquier acción u omisión que pueda resultar en un daño en la salud de las personas. 
         .row.justify-content-center(titulo="")
-          .col-md-4
+          .col-lg-4
             figure.mb-3
               img(src='@/assets/curso/tema1/tema1-1/img3.jpg', alt='Imágen decorativa', style='width:420px').mx-auto
           
-          .col-md-6.mb-4.mb-md-0.align-self-center.linea-pasos--custom
+          .col-lg-6.mb-4.mb-lg-0.align-self-center.linea-pasos--custom
             p Formular y adoptar políticas de salud, dirigidas a garantizar el goce efectivo del derecho en igualdad de trato y oportunidades para toda la población, asegurando para su cumplimiento, la coordinación armónica de las acciones de todos los agentes del Sistema.
         .row.justify-content-center(titulo="")
-          .col-md-4
+          .col-lg-4
             figure.mb-3
               img(src='@/assets/curso/tema1/tema1-1/img4.jpg', alt='Imágen decorativa', style='width:416px').mx-auto
           
-          .col-md-6.mb-4.mb-md-0.align-self-center.linea-pasos--custom
+          .col-lg-6.mb-4.mb-lg-0.align-self-center.linea-pasos--custom
             p Formular y adoptar políticas que propendan hacia la promoción de la salud, prevención y atención de la enfermedad y rehabilitación de sus secuelas, mediante acciones colectivas e individuales.
         .row.justify-content-center(titulo="")
-          .col-md-4
+          .col-lg-4
             figure.mb-3
               img(src='@/assets/curso/tema1/tema1-1/img5.jpg', alt='Imágen decorativa', style='width:420px;').mx-auto
-          
-          .col-md-6.mb-4.mb-md-0.align-self-center.linea-pasos--custom
+          .col-lg-6.mb-4.mb-lg-0.align-self-center.linea-pasos--custom
             p Establecer mecanismos para evitar la violación del derecho fundamental a la salud y determinar su régimen sancionatorio.
         .row.justify-content-center(titulo="")
-          .col-md-4
+          .col-lg-4
             figure.mb-3
               img(src='@/assets/curso/tema1/tema1-1/img6.jpg', alt='Imágen decorativa', style='width:420px;').mx-auto
-          .col-md-6.mb-4.mb-md-0.align-self-center.linea-pasos--custom
+          .col-lg-6.mb-4.mb-lg-0.align-self-center.linea-pasos--custom
             p Ejercer una adecuada inspección, vigilancia y control, mediante un órgano y/o las entidades especializadas que se determinen para tal efecto.
         .row.justify-content-center(titulo="")
-          .col-md-4
+          .col-lg-4
             figure.mb-3
               img(src='@/assets/curso/tema1/tema1-1/img7.jpg', alt='Imágen decorativa', style='width:420px;').mx-auto
-          .col-md-6.mb-4.mb-md-0.align-self-center.linea-pasos--custom
+          .col-lg-6.mb-4.mb-lg-0.align-self-center.linea-pasos--custom
             p Velar por el cumplimiento de los principios del derecho fundamental a la salud, en todo el territorio nacional, según las necesidades de salud de la población.
         .row.justify-content-center(titulo="")
-          .col-md-4
+          .col-lg-4
             figure.mb-3
               img(src='@/assets/curso/tema1/tema1-1/img8.jpg', alt='Imágen decorativa', style='width:420px;').mx-auto
-          .col-md-6.mb-4.mb-md-0.align-self-center.linea-pasos--custom
+          .col-lg-6.mb-4.mb-lg-0.align-self-center.linea-pasos--custom
             p Realizar el seguimiento continuo de la evolución de las condiciones de salud de la población, a lo largo del ciclo de vida de las personas. 
         .row.justify-content-center(titulo="")
-          .col-md-4
+          .col-lg-4
             figure.mb-3
               img(src='@/assets/curso/tema1/tema1-1/img9.jpg', alt='Imágen decorativa', style='width:420px;').mx-auto
-          .col-md-6.mb-4.mb-md-0.align-self-center.linea-pasos--custom
+          .col-lg-6.mb-4.mb-lg-0.align-self-center.linea-pasos--custom
             p Realizar evaluaciones sobre los resultados de goce efectivo del derecho fundamental a la salud, en función de sus principios y sobre la forma como el Sistema avanza, de manera razonable y progresiva, en la garantía al derecho fundamental de la salud.
         .row.justify-content-center(titulo="")
-          .col-md-4
+          .col-lg-4
             figure.mb-3
               img(src='@/assets/curso/tema1/tema1-1/img10.jpg', alt='Imágen decorativa', style='width:420px;').mx-auto
-          .col-md-6.mb-4.mb-md-0.align-self-center.linea-pasos--custom
+          .col-lg-6.mb-4.mb-lg-0.align-self-center.linea-pasos--custom
             p Adoptar la regulación y las políticas indispensables para financiar, de manera sostenible, los servicios de salud y garantizar el flujo de los recursos para atender, de manera oportuna y suficiente, las necesidades en la salud de la población.
         .row.justify-content-center(titulo="")
-          .col-md-4
+          .col-lg-4
             figure.mb-3
               img(src='@/assets/curso/tema1/tema1-1/img11.jpg', alt='Imágen decorativa', style='width:420px;').mx-auto
-          .col-md-6.mb-4.mb-md-0.align-self-center.linea-pasos--custom
+          .col-lg-6.mb-4.mb-lg-0.align-self-center.linea-pasos--custom
             p Intervenir el mercado de medicamentos, dispositivos médicos e insumos en salud, con el fin de optimizar su utilización; evitar las inequidades en el acceso, asegurar la calidad de los mismos o, en general, cuando pueda derivarse una grave afectación de la prestación del servicio.
     p.mb-4(data-aos="fade-right") Aquí entra en juego el artículo 6 de la ley 100 de 1993, el cual deja en claro que el Sistema de Seguridad Social Integral, coordinará las instituciones y los recursos necesarios para alcanzar los siguientes objetivos:
     .row.justify-content-center.mb-4
@@ -197,8 +195,7 @@
     .row.justify-content-center.mb-5.fondo-tarjeta--tema1V2
       .col-lg-8
         .titulo-sexto.color-acento-contenido.mb-5(data-aos="fade-right")
-          h5 Figura 2
-          span Composición Sistema de Seguridad Social Integral
+          p.mb-0 #[b Figura 2]. Composición Sistema de Seguridad Social Integral
         figure(style='margin-bottom:80px;')
           img.mb-3(src='@/assets/curso/tema1/tema1-2/img1.svg', alt='Muestra composición sistema de seguridad social integral:<br>Sistema General de Seguridad Social en Salud<br>Sistema General de Riesgos Profesionales<br>Sistema General de Seguridad Social Integral en Colombia<br>Sistema General de Pensiones<br>Servicios Sociales Complementarios').mx-auto
           p.text-center Nota. Sena (2021).
@@ -328,23 +325,25 @@
     separador
     #t_1_4.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       .h2 1.4 Mecanismos de protección del derecho fundamental a la salud
-    .row.justify-content-center(style='background: linear-gradient(0deg,#F7F6FE,#F7F6FE)')(data-aos="fade-right")
-      .col-lg-10.mb-5
-        .row.justify-content-center.pt-5
-          .col-lg-5.align-self-center
+    .row.justify-content-center(style='background: linear-gradient(0deg,#F7F6FE,#F7F6FE)')
+      .col-lg-10.mb-4
+        .row.justify-content-center.p-4
+          .col-lg-5.align-self-center.mb-4.mb-lg-0(data-aos="fade-right")
             figure
               img(src='@/assets/curso/tema1/tema1-4/img1.png' alt='Imágen decorativa', style='width: 482px;').mx-auto
-          .col-lg-7
-            p.m-4 El Ministerio de Salud regula el derecho fundamental a la Salud, basada en unos principios y elementos esenciales que serán los encargados de impactar la prestación de los servicios y tecnologías en salud, con el fin de asegurar una atención acorde con las necesidades de la población. Es la primera ley de su clase para un derecho social y reconoce a la salud como un derecho fundamental.
-            p.m-4 La siguiente imagen nos presenta los componentes de esta Ley.
-            a.anexo.mb-4.mb-lg-0.enlace-custom(:href="obtenerLink('/downloads/ley_estatutaria.pdf')" target="_blank")
+          .col-lg-7(data-aos="fade-left")
+            p El Ministerio de Salud regula el derecho fundamental a la Salud, basada en unos principios y elementos esenciales que serán los encargados de impactar la prestación de los servicios y tecnologías en salud, con el fin de asegurar una atención acorde con las necesidades de la población. Es la primera ley de su clase para un derecho social y reconoce a la salud como un derecho fundamental.
+            p La siguiente figura nos presenta los componentes de la ley:
+            .titulo-sexto.color-acento-contenido.mb-4
+              p.mb-0 #[b Figura 3]. Ley 1751 de 2015
+            a.anexo.enlace-custom(:href="obtenerLink('/downloads/ley_estatutaria.pdf')" target="_blank")
               .anexo__icono
                 img(src="@/assets/template/icono-link.svg")
               .anexo__texto
                 p.mb-0 Ley 1751 de 2015
       .col-lg-10
         p.mb-4 Para ampliar la información, descargue el PDF de la Ley Estatutaria 1751 de 2015, por medio de la cual se regula el derecho fundamental a la salud y se dictan otras disposiciones.
-        .row.mb-5
+        .row
           .col-lg-6
             a.anexo.mb-4.enlace-custom(:href="obtenerLink('/downloads/Anexo1_CF1_Ley1751.pdf')" target="_blank")
               .anexo__icono
@@ -355,10 +354,8 @@
 </template>
 
 <script>
-import LineaTiempoC from '@/components/LineaTiempoC.vue'
 export default {
   name: 'Tema1',
-  components: { LineaTiempoC },
   data: () => ({
     // variables de vue
   }),
