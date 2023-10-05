@@ -134,7 +134,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/331502_CF01_DU.zip',
+        download: 'downloads/material.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -192,7 +192,8 @@ export default {
     {
       referencia:
         'Werner, Palma, Echavarría y Rosales, (s.f.). Modelo de Atención Integral en Salud. Ministerio de Salud y Asistencia Social.',
-      link: 'https://www.paho.org/gut/dmdocuments/Modelo_de_atencion_MPAS.pdf',
+      link:
+        'https://docs.bvsalud.org/biblioref/2019/06/998258/modelo-de-atencion-integral-en-salud.pdf',
     },
   ],
   glosario: [
@@ -255,59 +256,69 @@ export default {
   ],
   complementario: [
     {
-      texto:
-        'Fucsalud. (2018). Sistema General de Seguridad Social (Video). Vimeo.',
+      tema: 'Sistema General de Seguridad Social Integral',
+      referencia:
+        'Fucsalud. (2018). <i>Sistema General de Seguridad Social.</i>',
       tipo: 'Video',
       link: 'https://vimeo.com/228217305',
     },
     {
-      texto:
-        'Sistema Integral de Información de la Protección Social (SISPRO). (s.f.). ¿Qué es SISPRO? ',
+      tema: 'Evaluación de indicadores',
+      referencia:
+        'Sistema Integral de Información de la Protección Social (SISPRO). (s.f.). <i>¿Qué es SISPRO?</i>',
       tipo: 'Página web',
       link: 'https://www.sispro.gov.co/Pages/Home.aspx',
     },
     {
-      texto:
-        'Superintendencia Financiera de Colombia. (s.f.). Superintendencia Financiera de Colombia.',
+      tema: 'Evaluación de indicadores',
+      referencia:
+        'Superintendencia Financiera de Colombia. (s.f.). <i>Superintendencia Financiera de Colombia.</i>',
       tipo: 'Página web',
       link: 'https://www.superfinanciera.gov.co/jsp/index.jsf',
     },
     {
-      texto:
-        'Serranosqui Plus. (2018). Constitución Política de Colombia – (Fundamentos de Administración Pública)',
+      tema: 'Evaluación de indicadores',
+      referencia:
+        'Serranosqui Plus. (2018). <i>Constitución Política de Colombia - (Fundamentos de Administración Pública).</i>',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=tDUOKWTeoYs',
     },
     {
-      texto: 'Lenis, M. (2016). Ley estatutaria en salud. ',
+      tema: 'Mecanismos de protección del derecho fundamental a la salud',
+      referencia: 'Lenis, M. (2016). <i>Ley estatutaria en salud.</i>',
       tipo: 'Artículo - presentacion',
       link: 'https://prezi.com/jvfvnkn0zd1p/ley-1751-de-2015/',
     },
     {
-      texto: 'Rueda, J. (2017). Ley 1751 de 2015 (Video). Youtube. ',
+      tema: 'Mecanismos de protección del derecho fundamental a la salud',
+      referencia: 'Rueda, J. (2017). <i>Ley 1751 de 2015.</i>',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=WBXc_GZLEa0',
     },
     {
-      texto:
-        'Ámbito Jurídico. (2015). Lo que usted debe saber sobre la Ley Estatutaria de Salud. ',
+      tema: 'Mecanismos de protección del derecho fundamental a la salud',
+      referencia:
+        'Ámbito Jurídico. (2015). <i>Lo que usted debe saber sobre la Ley Estatutaria de Salud.</i>',
       tipo: 'Video',
       link:
         'https://www.youtube.com/watch?v=8OTicDh_JYc&ab_channel=%C3%81mbitoJur%C3%ADdico',
     },
     {
-      texto:
-        'MinSaludCol. (2018). Presentación de la Política de Atención Integral en Salud.',
+      tema: 'Política de Atención Integral en Salud',
+      referencia:
+        'MinSaludCol. (2018). <i>Presentación de la Política de Atención Integral en Salud.</i>',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=AD9GoqohIuQ',
     },
     {
-      texto: 'Vargas, L. (2020). Resolución 2626 e 2019.',
+      tema: 'Modelo de Acción Integral Territorial',
+      referencia: 'Vargas, L. (2020). <i>Resolución 2626 e 2019.</i>',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=n6bE2uy_Dr0',
     },
     {
-      texto: 'Jaime, D. (2013). Tipos de clientes.',
+      tema: 'Tipos de clientes',
+      referencia: 'Jaime, D. (2013). <i>Tipos de clientes.</i>',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=hixQG0y7nuI',
     },
@@ -317,7 +328,7 @@ export default {
       titulo: 'ECOSISTEMA DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Claudia Patricía Aristizábal Gutiérres',
+          nombre: 'Claudia Patricia Aristizábal Gutiérrez',
           cargo: 'Responsable del equipo',
           centro: 'Dirección General',
         },
@@ -357,13 +368,13 @@ export default {
         {
           nombre: 'Ana Catalina Córdoba Sus',
           cargo:
-            'Diseñadora instruccional – Revisora metodológica y pedagógica - 2021',
+            'Diseñadora instruccional - Revisora metodológica y pedagógica - 2021',
           centro:
             'Centro para la Industria de la Comunicación Gráfica - Regional Distrito Capital',
         },
         {
           nombre: 'Rafael Neftali Lizcano Reyes',
-          cargo: 'Asesor pedagógico 2021',
+          cargo: 'Asesor pedagógico - 2021',
           centro:
             'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },

@@ -54,7 +54,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10
         .titulo-sexto.color-acento-contenido(data-aos="fade-right")
-          p.mb-0 #[b Figura 4]. Beneficios de la PAIS
+          p.mb-0 #[b Figura 3]. Beneficios de la PAIS
     .row.justify-content-center.fondo-tarjeta--temaV2.mb-5
       .col-lg-10
         figure(style='margin-bottom: 100px')(data-aos="fade-right")
@@ -91,7 +91,7 @@
     .row.justify-content-center.fondo-tarjeta--tema2.px-5.mb-5
       .col-lg-10
         .titulo-sexto.color-acento-contenido(data-aos="fade-right")
-          p.mb-0 #[b Figura 5]. Objetivos MAITE
+          p.mb-0 #[b Figura 4]. Objetivos MAITE
         figure.mb-4(data-aos="fade-left")
           img(src='@/assets/curso/tema2/img9.svg', alt='Muestra objetivos MAITE: <br>OBJETIVOS <br>Garantizar el derecho fundamental a la salud. <br>Fortalecer la autoridad sanitaria. <br>Articular los agentes del sistema de salud y los actores territoriales en torno a las acciones requeridas para el logro de los resultados de salud. <br>Ajustar las respuestas del sistema de salud, a las necesidades de los territorios y a sus poblaciones. <br>Mejorar las condiciones de salud de la población, la satisfacción de los usuarios frente al sistema de salud, y la sostenibilidad financiera del mismo.', style="").mx-auto
     p.mb-4(data-aos="fade-right") Para ampliar la información, descargue el PDF de la Resolución 2626 de 2019, por la cual se modifica la Política de Atención Integral en Salud (PAIS) y se adopta el Modelo de Acción Integral Territorial (MAITE).

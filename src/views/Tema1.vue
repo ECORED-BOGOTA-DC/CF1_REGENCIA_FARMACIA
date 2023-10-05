@@ -21,9 +21,7 @@
         figure(data-aos='zoom-out')
           img(src="@/assets/curso/tema1/imgP.jpg", alt="Imágen decorativa", style='width:450px;').m-auto
     p.mb-4(data-aos="fade-up") Además, tiene por #[strong objeto] garantizar los derechos irrenunciables de la persona y la comunidad, para obtener la calidad de vida acorde con la dignidad humana, mediante la protección de las contingencias que las afecten.
-    p.mb-5(data-aos="fade-up") Esta ley, en su Artículo 2, presenta los #[strong principios] bajo los cuales se rige la Seguridad Social Integral, estos se presentan en la siguiente imagen.
-    .titulo-sexto.color-acento-contenido.mb-5(data-aos="fade-right")
-      p.mb-0 #[b Figura 1]. Principios bajo los cuales se rige la Seguridad Social Integral
+    p.mb-5(data-aos="fade-up") Esta ley, en su Artículo 2, presenta los #[strong principios] bajo los cuales se rige la Seguridad Social Integral, estos se presentan a continuación:
     .h4.mb-5.text-center(data-aos="fade-left") PRINCIPIOS: LEY 100 DE 1993
     .row.justify-content-center.fondo-tarjeta--tema1(data-aos="fade-down")
       .col-lg-9
@@ -195,7 +193,7 @@
     .row.justify-content-center.mb-5.fondo-tarjeta--tema1V2
       .col-lg-8
         .titulo-sexto.color-acento-contenido.mb-5(data-aos="fade-right")
-          p.mb-0 #[b Figura 2]. Composición Sistema de Seguridad Social Integral
+          p.mb-0 #[b Figura 1]. Composición Sistema de Seguridad Social Integral
         figure(style='margin-bottom:80px;')
           img.mb-3(src='@/assets/curso/tema1/tema1-2/img1.svg', alt='Muestra composición sistema de seguridad social integral:<br>Sistema General de Seguridad Social en Salud<br>Sistema General de Riesgos Profesionales<br>Sistema General de Seguridad Social Integral en Colombia<br>Sistema General de Pensiones<br>Servicios Sociales Complementarios').mx-auto
           p.text-center Nota. Sena (2021).
@@ -261,8 +259,9 @@
           .bloque-texto-g__img(
             :style="{'background-image': `url(${require('@/assets/curso/tema1/tema1-3/img1.jpg')})`}")(alt="Imágen decorativa")
           .bloque-texto-g__texto.p-4
-            i.fas.fa-quote-right.mb-5.mt-4(style="color: #00BCD4 !important ;font-size:35px !important")
-            p.mb-0 “Una institución jurídica cuyo propósito fundamental es el de reducir los efectos nocivos de la desigualdad material. Todo lo anterior debe ser entendido como una acción positiva en favor de quienes, por razones particulares, se encuentran en una situación de debilidad manifiesta. No obstante, la condición del sujeto, de especial protección constitucional, no excluye ni elimina el deber de autogestión que tienen todos los individuos para hacer valer sus derechos”
+            i.fas.fa-quote-left.me-1(style="color: #00BCD4 !important ;font-size:15px !important")
+            p.mb-0 Una institución jurídica cuyo propósito fundamental es el de reducir los efectos nocivos de la desigualdad material. Todo lo anterior debe ser entendido como una acción positiva en favor de quienes, por razones particulares, se encuentran en una situación de debilidad manifiesta. No obstante, la condición del sujeto, de especial protección constitucional, no excluye ni elimina el deber de autogestión que tienen todos los individuos para hacer valer sus derechos.
+            i.fas.fa-quote-right.ms-1(style="color: #00BCD4 !important ;font-size:15px !important")
             br
             br
             p.d-flex.justify-content-end.mb-0 #[b Corte Constitucional, sentencia T-293 del 2017]
@@ -335,7 +334,7 @@
             p El Ministerio de Salud regula el derecho fundamental a la Salud, basada en unos principios y elementos esenciales que serán los encargados de impactar la prestación de los servicios y tecnologías en salud, con el fin de asegurar una atención acorde con las necesidades de la población. Es la primera ley de su clase para un derecho social y reconoce a la salud como un derecho fundamental.
             p La siguiente figura nos presenta los componentes de la ley:
             .titulo-sexto.color-acento-contenido.mb-4
-              p.mb-0 #[b Figura 3]. Ley 1751 de 2015
+              p.mb-0 #[b Figura 2]. Ley 1751 de 2015
             a.anexo.enlace-custom(:href="obtenerLink('/downloads/ley_estatutaria.pdf')" target="_blank")
               .anexo__icono
                 img(src="@/assets/template/icono-link.svg")

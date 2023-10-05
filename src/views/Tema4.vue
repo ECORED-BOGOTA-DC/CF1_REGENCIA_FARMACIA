@@ -43,10 +43,11 @@
         .bloque-texto-d.color-secundario.p-2
           .bloque-texto-d__texto.mb-2.mt-4
             i.fas.fa-quote-left
-            span.text-regular La planeación estratégica en mercadeo, es una técnica gerencial que obedece a un proceso dinámico, con el cual se pretende ordenar los objetivos y acciones estratégicas de la organización, para satisfacer los mercados en un ambiente competitivo a lo largo del tiempo
+            span.text-regular La planeación estratégica en mercadeo, es una técnica gerencial que obedece a un proceso dinámico, con el cual se pretende ordenar los objetivos y acciones estratégicas de la organización, para satisfacer los mercados en un ambiente competitivo a lo largo del tiempo.
+            i.fas.fa-quote-right
             br
-            .h5.mb-0.texto-derecha.mt-2 Peñaloza, Prieto y Rodríguez, 2012, p.25
-            i.fas.fa-quote-right.texto-derecha
+            br
+            .p.mb-0.d-flex.justify-content-end #[b Peñaloza, Prieto y Rodríguez, 2012, p.25z]
     .row.justify-content-center(style='margin-bottom:30px')
       .col-lg-5(data-aos="fade-right")
         figure.mb-4
@@ -61,11 +62,12 @@
           .bloque-texto-g__img(
             :style="{'background-image': `url(${require('@/assets/curso/tema4/img4.jpg')})`}")(alt="Imágen decorativa")
           .bloque-texto-g__texto.p-4
-            i.fas.fa-quote-right.mb-5.mt-4(style="color: #00BCD4 !important ;font-size:35px !important")
-            p.mb-4 “Se puede afirmar que la mercadotecnia constituye una nueva perspectiva para la gerencia de la salud, ya que al apropiarse de ella como una herramienta que permite llevar al mercado medicamentos, instrumental médico, y tecnología, ofrecer y reorientar servicios, diseñar y poner en marcha programas de salud, concilia los objetivos y propósitos de la institución sanitaria con los del usuario, consumidor y paciente, para así lograr sus fines”.
+            i.fas.fa-quote-left.me-1(style="color: #00BCD4 !important ;font-size:15px !important")
+            p.mb-4 Se puede afirmar que la mercadotecnia constituye una nueva perspectiva para la gerencia de la salud, ya que al apropiarse de ella como una herramienta que permite llevar al mercado medicamentos, instrumental médico, y tecnología, ofrecer y reorientar servicios, diseñar y poner en marcha programas de salud, concilia los objetivos y propósitos de la institución sanitaria con los del usuario, consumidor y paciente, para así lograr sus fines.
+            i.fas.fa-quote-right.ms-1(style="color: #00BCD4 !important ;font-size:15px !important")
             br
-            p.text-end.mb-4
-              b - Peñaloza, Prieto y Rodríguez, 2012, p.25.
+            br
+            p.d-flex.justify-content-end.mb-0 #[b - Peñaloza, Prieto y Rodríguez, 2012, p.25.]
     p.mb-5(data-aos="fade-right") Las estrategias de mercadeo en salud abarcan la cultura organizacional (historia, hechos, conquistas, creencias, valores, filosofías de trabajo, etc.) y la plataforma estratégica que tenga la organización. Además, influyen en aspectos como:
     .tarjeta.tarjeta--gris.p-4(data-aos="fade-left")
       LineaTiempoC.color-secundario
